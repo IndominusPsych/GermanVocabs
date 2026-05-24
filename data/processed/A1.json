@@ -1,0 +1,5786 @@
+[
+  {
+    "id": "A1_clean_0001",
+    "level": "A1",
+    "letter": "A",
+    "word": "aber",
+    "type": "word",
+    "sentence_de": "Ich bin oft im Büro, aber nur für wenige Stunden."
+  },
+  {
+    "id": "A1_clean_0002",
+    "level": "A1",
+    "letter": "A",
+    "word": "abfahren",
+    "type": "word",
+    "sentence_de": "Wir fahren um zwölf Uhr ab."
+  },
+  {
+    "id": "A1_clean_0003",
+    "level": "A1",
+    "letter": "A",
+    "word": "Abfahrt",
+    "article": "die",
+    "type": "noun",
+    "sentence_de": "Vor der Abfahrt rufe ich an."
+  },
+  {
+    "id": "A1_clean_0004",
+    "level": "A1",
+    "letter": "A",
+    "word": "abfliegen",
+    "type": "word",
+    "sentence_de": "Wann fliegst du ab?"
+  },
+  {
+    "id": "A1_clean_0005",
+    "level": "A1",
+    "letter": "A",
+    "word": "Abflug",
+    "article": "der",
+    "type": "noun",
+    "sentence_de": "Der Abflug ist um 11.20 Uhr."
+  },
+  {
+    "id": "A1_clean_0006",
+    "level": "A1",
+    "letter": "A",
+    "word": "abgeben",
+    "type": "word",
+    "sentence_de": "Ich muss meine Schlüssel abgeben."
+  },
+  {
+    "id": "A1_clean_0007",
+    "level": "A1",
+    "letter": "A",
+    "word": "abholen",
+    "type": "word",
+    "sentence_de": "Wann kann ich den Schrank bei dir abholen? Wir müssen noch meinen Bruder abholen."
+  },
+  {
+    "id": "A1_clean_0008",
+    "level": "A1",
+    "letter": "A",
+    "word": "Absender",
+    "article": "der",
+    "type": "noun",
+    "sentence_de": "Da ist ein Brief für dich ohne Absender."
+  },
+  {
+    "id": "A1_clean_0009",
+    "level": "A1",
+    "letter": "A",
+    "word": "Achtung",
+    "type": "word",
+    "sentence_de": "Achtung! Das dürfen Sie nicht tun."
+  },
+  {
+    "id": "A1_clean_0010",
+    "level": "A1",
+    "letter": "A",
+    "word": "Adresse",
+    "article": "die",
+    "type": "noun",
+    "plural": "-en",
+    "sentence_de": "Können Sie mir seine Adresse sagen?"
+  },
+  {
+    "id": "A1_clean_0011",
+    "level": "A1",
+    "letter": "A",
+    "word": "all-",
+    "type": "word",
+    "sentence_de": "Alles Gute! Das ist alles. Sind alle da? Alle Freunde kommen. Hast du alles?"
+  },
+  {
+    "id": "A1_clean_0012",
+    "level": "A1",
+    "letter": "A",
+    "word": "allein",
+    "type": "word",
+    "sentence_de": "Er kommt allein."
+  },
+  {
+    "id": "A1_clean_0013",
+    "level": "A1",
+    "letter": "A",
+    "word": "also",
+    "type": "word",
+    "sentence_de": "Also, es ist so: ... Er hat Zeit, also muss er uns helfen."
+  },
+  {
+    "id": "A1_clean_0014",
+    "level": "A1",
+    "letter": "A",
+    "word": "alt",
+    "type": "word",
+    "sentence_de": "Wie alt sind Sie? Sie sehen aber nicht so alt aus. Mein Auto ist schon sehr alt. Wir wohnen in einem sehr alten Haus. Köln ist eine alte Stadt."
+  },
+  {
+    "id": "A1_clean_0015",
+    "level": "A1",
+    "letter": "A",
+    "word": "Alter",
+    "article": "das",
+    "type": "noun",
+    "sentence_de": "Alter: 26 Jahre."
+  },
+  {
+    "id": "A1_clean_0016",
+    "level": "A1",
+    "letter": "A",
+    "word": "an",
+    "type": "word",
+    "sentence_de": "Fahren Sie an der nächsten Straße nach rechts. Wir treffen uns am Bahnhof. Am nächsten Montag geht es leider nicht."
+  },
+  {
+    "id": "A1_clean_0017",
+    "level": "A1",
+    "letter": "A",
+    "word": "an sein",
+    "type": "phrase",
+    "sentence_de": "Heute Nacht war das Licht an."
+  },
+  {
+    "id": "A1_clean_0018",
+    "level": "A1",
+    "letter": "A",
+    "word": "anbieten",
+    "type": "word",
+    "sentence_de": "Was darf ich dir anbieten?"
+  },
+  {
+    "id": "A1_clean_0019",
+    "level": "A1",
+    "letter": "A",
+    "word": "ander-",
+    "type": "word",
+    "sentence_de": "Willst du diese Jacke? – Nein, ich möchte die andere."
+  },
+  {
+    "id": "A1_clean_0020",
+    "level": "A1",
+    "letter": "A",
+    "word": "Anfang",
+    "article": "der",
+    "type": "noun",
+    "sentence_de": "Sie wohnt am Anfang der Straße. Wir machen Anfang Juli Urlaub."
+  },
+  {
+    "id": "A1_clean_0021",
+    "level": "A1",
+    "letter": "A",
+    "word": "anfangen",
+    "type": "word",
+    "sentence_de": "Hier fängt die Bahnhofstraße an. Der Unterricht fängt gleich an."
+  },
+  {
+    "id": "A1_clean_0022",
+    "level": "A1",
+    "letter": "A",
+    "word": "Angebot",
+    "article": "das",
+    "type": "noun",
+    "plural": "-e",
+    "sentence_de": "Heute sind Sportschuhe im Angebot."
+  },
+  {
+    "id": "A1_clean_0023",
+    "level": "A1",
+    "letter": "A",
+    "word": "anklicken",
+    "type": "word",
+    "sentence_de": "Da musst du dieses Wort anklicken."
+  },
+  {
+    "id": "A1_clean_0024",
+    "level": "A1",
+    "letter": "A",
+    "word": "ankommen",
+    "type": "word",
+    "sentence_de": "Wann kommt dieser Zug in Hamburg an?"
+  },
+  {
+    "id": "A1_clean_0025",
+    "level": "A1",
+    "letter": "A",
+    "word": "ankreuzen",
+    "type": "word",
+    "sentence_de": "Auf dem Formular müssen Sie an mehreren Stellen etwas ankreuzen."
+  },
+  {
+    "id": "A1_clean_0026",
+    "level": "A1",
+    "letter": "A",
+    "word": "Ankunft",
+    "article": "die",
+    "type": "noun",
+    "sentence_de": "Auf diesem Plan steht nur die Ankunft(-szeit) der Züge."
+  },
+  {
+    "id": "A1_clean_0027",
+    "level": "A1",
+    "letter": "A",
+    "word": "anmachen",
+    "type": "word",
+    "sentence_de": "Mach bitte das Licht an!"
+  },
+  {
+    "id": "A1_clean_0028",
+    "level": "A1",
+    "letter": "A",
+    "word": "anmelden",
+    "type": "word",
+    "sentence_de": "Wo kann ich mich anmelden?"
+  },
+  {
+    "id": "A1_clean_0029",
+    "level": "A1",
+    "letter": "A",
+    "word": "Anmeldung",
+    "article": "die",
+    "type": "noun",
+    "sentence_de": "Eine Anmeldung für diesen Kurs ist nicht mehr möglich."
+  },
+  {
+    "id": "A1_clean_0030",
+    "level": "A1",
+    "letter": "A",
+    "word": "Anrede",
+    "article": "die",
+    "type": "noun",
+    "sentence_de": "Schreiben Sie auch eine Anrede und einen Gruß."
+  },
+  {
+    "id": "A1_clean_0031",
+    "level": "A1",
+    "letter": "A",
+    "word": "Anruf",
+    "article": "der",
+    "type": "noun",
+    "plural": "-e",
+    "sentence_de": "Sie bekommt viele Anrufe auf ihrem Handy."
+  },
+  {
+    "id": "A1_clean_0032",
+    "level": "A1",
+    "letter": "A",
+    "word": "Anrufbeantworter",
+    "article": "der",
+    "type": "noun",
+    "sentence_de": "Wir sind im Moment nicht da. Sprechen Sie bitte auf den Anrufbeantworter."
+  },
+  {
+    "id": "A1_clean_0033",
+    "level": "A1",
+    "letter": "A",
+    "word": "anrufen",
+    "type": "word",
+    "sentence_de": "Kann man Sie anrufen? Peter ruft kurz seine Freundin an."
+  },
+  {
+    "id": "A1_clean_0034",
+    "level": "A1",
+    "letter": "A",
+    "word": "Ansage",
+    "article": "die",
+    "type": "noun",
+    "plural": "-n",
+    "sentence_de": "Hören Sie die Ansagen."
+  },
+  {
+    "id": "A1_clean_0035",
+    "level": "A1",
+    "letter": "A",
+    "word": "Anschluss",
+    "article": "der",
+    "type": "noun",
+    "sentence_de": "In Mannheim haben Sie Anschluss nach Saarbrücken. Ist das die Anmeldung für einen Telefonanschluss?"
+  },
+  {
+    "id": "A1_clean_0036",
+    "level": "A1",
+    "letter": "A",
+    "word": "Antwort",
+    "article": "die",
+    "type": "noun",
+    "plural": "-en",
+    "sentence_de": "Er gibt leider keine Antwort."
+  },
+  {
+    "id": "A1_clean_0037",
+    "level": "A1",
+    "letter": "A",
+    "word": "antworten",
+    "type": "word",
+    "sentence_de": "Er antwortet nicht."
+  },
+  {
+    "id": "A1_clean_0038",
+    "level": "A1",
+    "letter": "A",
+    "word": "Anzeige",
+    "article": "die",
+    "type": "noun",
+    "plural": "-n",
+    "sentence_de": "Ich habe Ihre Anzeige in der Zeitung gelesen."
+  },
+  {
+    "id": "A1_clean_0039",
+    "level": "A1",
+    "letter": "A",
+    "word": "anziehen",
+    "type": "word",
+    "sentence_de": "Ich muss mich noch anziehen."
+  },
+  {
+    "id": "A1_clean_0040",
+    "level": "A1",
+    "letter": "A",
+    "word": "Apartment",
+    "article": "das",
+    "type": "noun",
+    "plural": "-s",
+    "sentence_de": "Wir haben ein Apartment gemietet."
+  },
+  {
+    "id": "A1_clean_0041",
+    "level": "A1",
+    "letter": "A",
+    "word": "Apfel",
+    "article": "der",
+    "type": "noun",
+    "plural": "-Ä",
+    "sentence_de": "Ein Pfund Äpfel bitte."
+  },
+  {
+    "id": "A1_clean_0042",
+    "level": "A1",
+    "letter": "A",
+    "word": "Appetit",
+    "article": "der",
+    "type": "noun",
+    "sentence_de": "Guten Appetit!"
+  },
+  {
+    "id": "A1_clean_0043",
+    "level": "A1",
+    "letter": "A",
+    "word": "Arbeit",
+    "article": "die",
+    "type": "noun",
+    "plural": "-en",
+    "sentence_de": "Mein Bruder sucht Arbeit."
+  },
+  {
+    "id": "A1_clean_0044",
+    "level": "A1",
+    "letter": "A",
+    "word": "arbeiten",
+    "type": "word",
+    "sentence_de": "Wo arbeiten Sie?"
+  },
+  {
+    "id": "A1_clean_0045",
+    "level": "A1",
+    "letter": "A",
+    "word": "arbeitslos",
+    "type": "word",
+    "sentence_de": "Es gibt bei uns viele Leute, die schon lange arbeitslos sind."
+  },
+  {
+    "id": "A1_clean_0046",
+    "level": "A1",
+    "letter": "A",
+    "word": "Arbeitsplatz",
+    "article": "der",
+    "type": "noun",
+    "plural": "-ä, e",
+    "sentence_de": "An meinem Arbeitsplatz fehlt ein Drucker."
+  },
+  {
+    "id": "A1_clean_0047",
+    "level": "A1",
+    "letter": "A",
+    "word": "Arm",
+    "article": "der",
+    "type": "noun",
+    "plural": "-e",
+    "sentence_de": "Mein Arm tut weh."
+  },
+  {
+    "id": "A1_clean_0048",
+    "level": "A1",
+    "letter": "A",
+    "word": "Arzt",
+    "article": "der",
+    "type": "noun",
+    "plural": "-Ä, e",
+    "sentence_de": "Morgen habe ich einen Termin bei meiner Ärztin."
+  },
+  {
+    "id": "A1_clean_0049",
+    "level": "A1",
+    "letter": "A",
+    "word": "auch",
+    "type": "word",
+    "sentence_de": "Ich bin auch Spanier."
+  },
+  {
+    "id": "A1_clean_0050",
+    "level": "A1",
+    "letter": "A",
+    "word": "auf",
+    "type": "word",
+    "sentence_de": "Die Kinder spielen auf der Straße. Auf Wiedersehen. Wie heißt das auf Deutsch?"
+  },
+  {
+    "id": "A1_clean_0051",
+    "level": "A1",
+    "letter": "A",
+    "word": "auf sein",
+    "type": "phrase",
+    "sentence_de": "Du brauchst den Schlüssel nicht. Die Wohnung ist auf."
+  },
+  {
+    "id": "A1_clean_0052",
+    "level": "A1",
+    "letter": "A",
+    "word": "Aufgabe",
+    "article": "die",
+    "type": "noun",
+    "plural": "-n",
+    "sentence_de": "Das ist eine schwere Aufgabe."
+  },
+  {
+    "id": "A1_clean_0053",
+    "level": "A1",
+    "letter": "A",
+    "word": "aufhören",
+    "type": "word",
+    "sentence_de": "Der Kurs hört in einer Woche auf. Hier hört die Bahnhofstraße auf."
+  },
+  {
+    "id": "A1_clean_0054",
+    "level": "A1",
+    "letter": "A",
+    "word": "aufstehen",
+    "type": "word",
+    "sentence_de": "Ich muss immer um vier Uhr aufstehen. Soll ich aufstehen?"
+  },
+  {
+    "id": "A1_clean_0055",
+    "level": "A1",
+    "letter": "A",
+    "word": "Aufzug",
+    "article": "der",
+    "type": "noun",
+    "plural": "-ü, e",
+    "sentence_de": "In diesem Haus gibt es keinen Aufzug."
+  },
+  {
+    "id": "A1_clean_0056",
+    "level": "A1",
+    "letter": "A",
+    "word": "Auge",
+    "article": "das",
+    "type": "noun",
+    "plural": "-n",
+    "sentence_de": "Er hat blaue Augen."
+  },
+  {
+    "id": "A1_clean_0057",
+    "level": "A1",
+    "letter": "A",
+    "word": "aus",
+    "type": "word",
+    "sentence_de": "Er kommt aus Brasilien."
+  },
+  {
+    "id": "A1_clean_0058",
+    "level": "A1",
+    "letter": "A",
+    "word": "aus sein",
+    "type": "phrase",
+    "sentence_de": "Das Licht ist aus. Die Schule ist aus."
+  },
+  {
+    "id": "A1_clean_0059",
+    "level": "A1",
+    "letter": "A",
+    "word": "Ausflug",
+    "article": "der",
+    "type": "noun",
+    "sentence_de": "Morgen machen wir einen Ausflug nach Heidelberg."
+  },
+  {
+    "id": "A1_clean_0060",
+    "level": "A1",
+    "letter": "A",
+    "word": "ausfüllen",
+    "type": "word",
+    "sentence_de": "Füllen Sie bitte dieses Formular aus."
+  },
+  {
+    "id": "A1_clean_0061",
+    "level": "A1",
+    "letter": "A",
+    "word": "Ausgang",
+    "article": "der",
+    "type": "noun",
+    "sentence_de": "Wo ist der Ausgang?"
+  },
+  {
+    "id": "A1_clean_0062",
+    "level": "A1",
+    "letter": "A",
+    "word": "Auskunft",
+    "article": "die",
+    "type": "noun",
+    "plural": "-ü, e",
+    "sentence_de": "Können Sie mir eine Auskunft geben?"
+  },
+  {
+    "id": "A1_clean_0063",
+    "level": "A1",
+    "letter": "A",
+    "word": "Ausland",
+    "article": "das",
+    "type": "noun",
+    "sentence_de": "Fahren Sie ins Ausland?"
+  },
+  {
+    "id": "A1_clean_0064",
+    "level": "A1",
+    "letter": "A",
+    "word": "Ausländer",
+    "article": "der",
+    "type": "noun",
+    "plural": "-",
+    "sentence_de": "SInd Sie Ausländerin?"
+  },
+  {
+    "id": "A1_clean_0065",
+    "level": "A1",
+    "letter": "A",
+    "word": "ausländisch",
+    "type": "word",
+    "sentence_de": "Leider habe ich nur ausländisches Geld."
+  },
+  {
+    "id": "A1_clean_0066",
+    "level": "A1",
+    "letter": "A",
+    "word": "ausmachen",
+    "type": "word",
+    "sentence_de": "Mach bitte das Licht aus!"
+  },
+  {
+    "id": "A1_clean_0067",
+    "level": "A1",
+    "letter": "A",
+    "word": "Aussage",
+    "article": "die",
+    "type": "noun",
+    "plural": "-n",
+    "sentence_de": "Ist die Aussage richtig oder falsch?"
+  },
+  {
+    "id": "A1_clean_0068",
+    "level": "A1",
+    "letter": "A",
+    "word": "aussehen",
+    "type": "word",
+    "sentence_de": "Das sieht schön aus."
+  },
+  {
+    "id": "A1_clean_0069",
+    "level": "A1",
+    "letter": "A",
+    "word": "aussteigen",
+    "type": "word",
+    "sentence_de": "Wo muss ich aussteigen?"
+  },
+  {
+    "id": "A1_clean_0070",
+    "level": "A1",
+    "letter": "A",
+    "word": "Ausweis",
+    "article": "der",
+    "type": "noun",
+    "sentence_de": "Hier ist mein Ausweis."
+  },
+  {
+    "id": "A1_clean_0071",
+    "level": "A1",
+    "letter": "A",
+    "word": "ausziehen",
+    "type": "word",
+    "sentence_de": "Zieh die Schuhe aus, bitte!"
+  },
+  {
+    "id": "A1_clean_0072",
+    "level": "A1",
+    "letter": "A",
+    "word": "Auto",
+    "article": "das",
+    "type": "noun",
+    "plural": "-s",
+    "sentence_de": "Er kommt mit dem Auto."
+  },
+  {
+    "id": "A1_clean_0073",
+    "level": "A1",
+    "letter": "A",
+    "word": "Autobahn",
+    "article": "die",
+    "type": "noun",
+    "plural": "-en",
+    "sentence_de": "Wo geht's hier bitte zur Autobahn?"
+  },
+  {
+    "id": "A1_clean_0074",
+    "level": "A1",
+    "letter": "A",
+    "word": "Automat",
+    "article": "der",
+    "type": "noun",
+    "sentence_de": "Die Fahrkarten gibt es nur am Automaten."
+  },
+  {
+    "id": "A1_clean_0075",
+    "level": "A1",
+    "letter": "A",
+    "word": "automatisch",
+    "type": "word",
+    "sentence_de": "Du musst nichts machen. Das geht automatisch."
+  },
+  {
+    "id": "A1_clean_0076",
+    "level": "A1",
+    "letter": "B",
+    "word": "Baby",
+    "article": "das",
+    "type": "noun",
+    "plural": "-s",
+    "sentence_de": "Mein Kind ist noch ein Baby."
+  },
+  {
+    "id": "A1_clean_0077",
+    "level": "A1",
+    "letter": "B",
+    "word": "Bäckerei",
+    "article": "die",
+    "type": "noun",
+    "sentence_de": "Ich geh mal schnell zur Bäckerei."
+  },
+  {
+    "id": "A1_clean_0078",
+    "level": "A1",
+    "letter": "B",
+    "word": "Bad",
+    "article": "das",
+    "type": "noun",
+    "sentence_de": "Wir haben kein großes Bad."
+  },
+  {
+    "id": "A1_clean_0079",
+    "level": "A1",
+    "letter": "B",
+    "word": "baden",
+    "type": "word",
+    "sentence_de": "Ich bade nicht so gern, ich dusche lieber."
+  },
+  {
+    "id": "A1_clean_0080",
+    "level": "A1",
+    "letter": "B",
+    "word": "Bahn",
+    "article": "die",
+    "type": "noun",
+    "sentence_de": "Wir fahren lieber mit der Bahn. Ich nehme die nächste Bahn."
+  },
+  {
+    "id": "A1_clean_0081",
+    "level": "A1",
+    "letter": "B",
+    "word": "Bahnhof",
+    "article": "der",
+    "type": "noun",
+    "sentence_de": "Komme ich hier zum Bahnhof?"
+  },
+  {
+    "id": "A1_clean_0082",
+    "level": "A1",
+    "letter": "B",
+    "word": "Bahnsteig",
+    "article": "der",
+    "type": "noun",
+    "sentence_de": "Auf welchem Bahnsteig fährt der Zug?"
+  },
+  {
+    "id": "A1_clean_0083",
+    "level": "A1",
+    "letter": "B",
+    "word": "bald",
+    "type": "word",
+    "sentence_de": "Ich komme bald."
+  },
+  {
+    "id": "A1_clean_0084",
+    "level": "A1",
+    "letter": "B",
+    "word": "Balkon",
+    "article": "der",
+    "type": "noun",
+    "sentence_de": "Die Wohnung hat auch einen kleinen Balkon."
+  },
+  {
+    "id": "A1_clean_0085",
+    "level": "A1",
+    "letter": "B",
+    "word": "Banane",
+    "article": "die",
+    "type": "noun",
+    "plural": "-n",
+    "sentence_de": "Drei Bananen, bitte!"
+  },
+  {
+    "id": "A1_clean_0086",
+    "level": "A1",
+    "letter": "B",
+    "word": "Bank",
+    "article": "die",
+    "type": "noun",
+    "sentence_de": "Die Bank schließt schon um vier Uhr. Er sitzt im Park auf einer Bank und liest."
+  },
+  {
+    "id": "A1_clean_0087",
+    "level": "A1",
+    "letter": "B",
+    "word": "bar",
+    "type": "word",
+    "sentence_de": "Muss ich bar zahlen oder geht's auch mit Karte?"
+  },
+  {
+    "id": "A1_clean_0088",
+    "level": "A1",
+    "letter": "B",
+    "word": "Bauch",
+    "article": "der",
+    "type": "noun",
+    "sentence_de": "Seit gestern tut mir der Bauch weh."
+  },
+  {
+    "id": "A1_clean_0089",
+    "level": "A1",
+    "letter": "B",
+    "word": "Baum",
+    "article": "der",
+    "type": "noun",
+    "plural": "-ä, e",
+    "sentence_de": "Vorsicht, fahr nicht an den Baum!"
+  },
+  {
+    "id": "A1_clean_0090",
+    "level": "A1",
+    "letter": "B",
+    "word": "Beamte",
+    "article": "der",
+    "type": "noun",
+    "plural": "-n",
+    "sentence_de": "Fragen Sie die Beamtin an Schalter acht!"
+  },
+  {
+    "id": "A1_clean_0091",
+    "level": "A1",
+    "letter": "B",
+    "word": "bedeuten",
+    "type": "word",
+    "sentence_de": "Was bedeutet das Wort?"
+  },
+  {
+    "id": "A1_clean_0092",
+    "level": "A1",
+    "letter": "B",
+    "word": "beginnen",
+    "type": "word",
+    "sentence_de": "Das Spiel beginnt um 15.30 Uhr."
+  },
+  {
+    "id": "A1_clean_0093",
+    "level": "A1",
+    "letter": "B",
+    "word": "bei",
+    "type": "word",
+    "sentence_de": "Offenbach liegt bei Frankfurt. Ich wohne bei meinen Eltern. Bei uns regnet es heute. Er arbeitet bei der Polizei."
+  },
+  {
+    "id": "A1_clean_0094",
+    "level": "A1",
+    "letter": "B",
+    "word": "beide",
+    "type": "word",
+    "sentence_de": "Beide Eltern arbeiten. Wir kommen beide."
+  },
+  {
+    "id": "A1_clean_0095",
+    "level": "A1",
+    "letter": "B",
+    "word": "Bein",
+    "article": "das",
+    "type": "noun",
+    "plural": "-e",
+    "sentence_de": "Mein rechtes Bein tut weh."
+  },
+  {
+    "id": "A1_clean_0096",
+    "level": "A1",
+    "letter": "B",
+    "word": "Beispiel",
+    "article": "das",
+    "type": "noun",
+    "plural": "-e",
+    "sentence_de": "Kannst du mir ein Beispiel sagen?"
+  },
+  {
+    "id": "A1_clean_0097",
+    "level": "A1",
+    "letter": "B",
+    "word": "bekannt",
+    "type": "word",
+    "sentence_de": "Picasso ist sehr bekannt."
+  },
+  {
+    "id": "A1_clean_0098",
+    "level": "A1",
+    "letter": "B",
+    "word": "Bekannte",
+    "article": "der/die",
+    "type": "noun",
+    "plural": "-n",
+    "sentence_de": "Ein Bekannter von mir heißt Klaus."
+  },
+  {
+    "id": "A1_clean_0099",
+    "level": "A1",
+    "letter": "B",
+    "word": "bekommen",
+    "type": "word",
+    "sentence_de": "Haben Sie meinen Brief bekommen? Was bekommen Sie? Dieses Medikament bekommen Sie in der Apotheke."
+  },
+  {
+    "id": "A1_clean_0100",
+    "level": "A1",
+    "letter": "B",
+    "word": "benutzen",
+    "type": "word",
+    "sentence_de": "Die Aufzüge bitte nicht benutzen!"
+  },
+  {
+    "id": "A1_clean_0101",
+    "level": "A1",
+    "letter": "B",
+    "word": "Beruf",
+    "article": "der",
+    "type": "noun",
+    "plural": "-e",
+    "sentence_de": "Was sind Sie von Beruf? Was ist Ihr Beruf?"
+  },
+  {
+    "id": "A1_clean_0102",
+    "level": "A1",
+    "letter": "B",
+    "word": "besetzt",
+    "type": "word",
+    "sentence_de": "Die Nummer ist immer besetzt. Der Platz ist besetzt."
+  },
+  {
+    "id": "A1_clean_0103",
+    "level": "A1",
+    "letter": "B",
+    "word": "besichtigen",
+    "type": "word",
+    "sentence_de": "Ich möchte gern den Dom besichtigen."
+  },
+  {
+    "id": "A1_clean_0104",
+    "level": "A1",
+    "letter": "B",
+    "word": "besser",
+    "type": "word",
+    "sentence_de": "Es geht mir schon besser."
+  },
+  {
+    "id": "A1_clean_0105",
+    "level": "A1",
+    "letter": "B",
+    "word": "best-",
+    "type": "word",
+    "sentence_de": "Am besten treffen wir uns morgen."
+  },
+  {
+    "id": "A1_clean_0106",
+    "level": "A1",
+    "letter": "B",
+    "word": "bestellen",
+    "type": "word",
+    "sentence_de": "Wir möchten bestellen, bitte. Dieses Buch haben wir nicht – sollen wir es für Sie bestellen?"
+  },
+  {
+    "id": "A1_clean_0107",
+    "level": "A1",
+    "letter": "B",
+    "word": "besuchen",
+    "type": "word",
+    "sentence_de": "Darf ich dich besuchen?"
+  },
+  {
+    "id": "A1_clean_0108",
+    "level": "A1",
+    "letter": "B",
+    "word": "Bett",
+    "article": "das",
+    "type": "noun",
+    "plural": "-en",
+    "sentence_de": "Wir brauchen noch ein Kinderbett."
+  },
+  {
+    "id": "A1_clean_0109",
+    "level": "A1",
+    "letter": "B",
+    "word": "bezahlen",
+    "type": "word",
+    "sentence_de": "Wo muss ich bezahlen?"
+  },
+  {
+    "id": "A1_clean_0110",
+    "level": "A1",
+    "letter": "B",
+    "word": "Bier",
+    "article": "das",
+    "type": "noun",
+    "sentence_de": "Noch ein Bier bitte."
+  },
+  {
+    "id": "A1_clean_0111",
+    "level": "A1",
+    "letter": "B",
+    "word": "Birne",
+    "article": "die",
+    "type": "noun",
+    "plural": "-n",
+    "sentence_de": "Ein Kilo Birnen, bitte!"
+  },
+  {
+    "id": "A1_clean_0112",
+    "level": "A1",
+    "letter": "B",
+    "word": "bis",
+    "type": "word",
+    "sentence_de": "Ich fahre nur bis Stuttgart. Ich warte bis morgen."
+  },
+  {
+    "id": "A1_clean_0113",
+    "level": "A1",
+    "letter": "B",
+    "word": "bisschen",
+    "type": "word",
+    "sentence_de": "Ich spreche Englisch, Französisch und ein bisschen Deutsch."
+  },
+  {
+    "id": "A1_clean_0114",
+    "level": "A1",
+    "letter": "B",
+    "word": "bitte",
+    "type": "word",
+    "sentence_de": "Eine Tasse Kaffee, bitte! Sprechen Sie bitte leise!"
+  },
+  {
+    "id": "A1_clean_0115",
+    "level": "A1",
+    "letter": "B",
+    "word": "Bitte",
+    "article": "die",
+    "type": "noun",
+    "plural": "-n",
+    "sentence_de": "Ich habe noch eine Bitte."
+  },
+  {
+    "id": "A1_clean_0116",
+    "level": "A1",
+    "letter": "B",
+    "word": "bitten",
+    "type": "word",
+    "sentence_de": "Darf ich Sie um etwas bitten?"
+  },
+  {
+    "id": "A1_clean_0117",
+    "level": "A1",
+    "letter": "B",
+    "word": "bitter",
+    "type": "word",
+    "sentence_de": "Der Kaffee schmeckt bitter."
+  },
+  {
+    "id": "A1_clean_0118",
+    "level": "A1",
+    "letter": "B",
+    "word": "bleiben",
+    "type": "word",
+    "sentence_de": "Ich bleibe heute zu Hause. Wir bleiben nur bis morgen."
+  },
+  {
+    "id": "A1_clean_0119",
+    "level": "A1",
+    "letter": "B",
+    "word": "Bleistift",
+    "article": "der",
+    "type": "noun",
+    "plural": "-e",
+    "sentence_de": "Hast du einen Bleistift?"
+  },
+  {
+    "id": "A1_clean_0120",
+    "level": "A1",
+    "letter": "B",
+    "word": "Blick",
+    "article": "der",
+    "type": "noun",
+    "sentence_de": "Von diesem Hotel hat man einen guten Blick auf den Rhein."
+  },
+  {
+    "id": "A1_clean_0121",
+    "level": "A1",
+    "letter": "B",
+    "word": "Blume",
+    "article": "die",
+    "type": "noun",
+    "plural": "-n",
+    "sentence_de": "Gefallen dir die Blumen?"
+  },
+  {
+    "id": "A1_clean_0122",
+    "level": "A1",
+    "letter": "B",
+    "word": "Bogen",
+    "article": "der",
+    "type": "noun",
+    "sentence_de": "Schreiben Sie Ihre Lösungen bitte auf den Antwortbogen."
+  },
+  {
+    "id": "A1_clean_0123",
+    "level": "A1",
+    "letter": "B",
+    "word": "böse",
+    "type": "word",
+    "sentence_de": "Sie ist böse auf mich."
+  },
+  {
+    "id": "A1_clean_0124",
+    "level": "A1",
+    "letter": "B",
+    "word": "brauchen",
+    "type": "word",
+    "sentence_de": "Brauchst du die Zeitung noch?"
+  },
+  {
+    "id": "A1_clean_0125",
+    "level": "A1",
+    "letter": "B",
+    "word": "breit",
+    "type": "word",
+    "sentence_de": "Wie breit ist der Schrank?"
+  },
+  {
+    "id": "A1_clean_0126",
+    "level": "A1",
+    "letter": "B",
+    "word": "Brief",
+    "article": "der",
+    "type": "noun",
+    "plural": "-e",
+    "sentence_de": "Haben Sie einen Brief für mich?"
+  },
+  {
+    "id": "A1_clean_0127",
+    "level": "A1",
+    "letter": "B",
+    "word": "Briefmarke",
+    "article": "die",
+    "type": "noun",
+    "plural": "-n",
+    "sentence_de": "Kaufst du bitte Briefmarken bei der Post."
+  },
+  {
+    "id": "A1_clean_0128",
+    "level": "A1",
+    "letter": "B",
+    "word": "bringen",
+    "type": "word",
+    "sentence_de": "Bringen Sie mir bitte noch einen Kaffee! Wir müssen ihn zum Arzt bringen."
+  },
+  {
+    "id": "A1_clean_0129",
+    "level": "A1",
+    "letter": "B",
+    "word": "Brot",
+    "article": "das",
+    "type": "noun",
+    "plural": "-e",
+    "sentence_de": "Haben Sie auch Weißbrot? Nimm noch ein paar Brote für die Fahrt mit."
+  },
+  {
+    "id": "A1_clean_0130",
+    "level": "A1",
+    "letter": "B",
+    "word": "Brötchen",
+    "article": "das",
+    "type": "noun",
+    "plural": "–",
+    "sentence_de": "Möchtest du Brötchen zum Frühstück?"
+  },
+  {
+    "id": "A1_clean_0131",
+    "level": "A1",
+    "letter": "B",
+    "word": "Bruder",
+    "article": "der",
+    "type": "noun",
+    "plural": "-ü",
+    "sentence_de": "Sein Bruder arbeitet auch hier."
+  },
+  {
+    "id": "A1_clean_0132",
+    "level": "A1",
+    "letter": "B",
+    "word": "Buch",
+    "article": "das",
+    "type": "noun",
+    "plural": "-ü, er",
+    "sentence_de": "Gute Bücher sind oft sehr teuer. In diesem Wörterbuch finden Sie mehr als 20.000 Wörter."
+  },
+  {
+    "id": "A1_clean_0133",
+    "level": "A1",
+    "letter": "B",
+    "word": "Buchstabe",
+    "article": "der",
+    "type": "noun",
+    "plural": "-n",
+    "sentence_de": "Diesen Buchstaben gibt es in meiner Sprache nicht."
+  },
+  {
+    "id": "A1_clean_0134",
+    "level": "A1",
+    "letter": "B",
+    "word": "buchstabieren",
+    "type": "word",
+    "sentence_de": "Bitte buchstabieren Sie Ihren Namen."
+  },
+  {
+    "id": "A1_clean_0135",
+    "level": "A1",
+    "letter": "B",
+    "word": "Bus",
+    "article": "der",
+    "type": "noun",
+    "plural": "-se",
+    "sentence_de": "Wann kommt der nächste Bus?"
+  },
+  {
+    "id": "A1_clean_0136",
+    "level": "A1",
+    "letter": "B",
+    "word": "Butter",
+    "article": "die",
+    "type": "noun",
+    "sentence_de": "Für mich bitte ein Brötchen mit Butter und Käse."
+  },
+  {
+    "id": "A1_clean_0137",
+    "level": "A1",
+    "letter": "C",
+    "word": "Café",
+    "article": "das",
+    "type": "noun",
+    "plural": "-s",
+    "sentence_de": "Sollen wir uns im Café treffen?"
+  },
+  {
+    "id": "A1_clean_0138",
+    "level": "A1",
+    "letter": "C",
+    "word": "CD",
+    "article": "die",
+    "type": "noun",
+    "plural": "-s",
+    "sentence_de": "Bring bitte deine Lieblings-CD mit."
+  },
+  {
+    "id": "A1_clean_0139",
+    "level": "A1",
+    "letter": "C",
+    "word": "Chef",
+    "article": "der",
+    "type": "noun",
+    "sentence_de": "Wir haben eine neue Chefin."
+  },
+  {
+    "id": "A1_clean_0140",
+    "level": "A1",
+    "letter": "C",
+    "word": "circa/ca.",
+    "type": "phrase",
+    "sentence_de": "Von Mainz nach Frankfurt sind es circa fünfzig Kilometer."
+  },
+  {
+    "id": "A1_clean_0141",
+    "level": "A1",
+    "letter": "C",
+    "word": "Computer",
+    "article": "der",
+    "type": "noun",
+    "plural": "–",
+    "sentence_de": "Wann bekommst du deinen neuen Computer?"
+  },
+  {
+    "id": "A1_clean_0142",
+    "level": "A1",
+    "letter": "D",
+    "word": "da",
+    "type": "word",
+    "sentence_de": "Da hinten ist er ja. Wir sprechen gerade über Paul. Da kommt er ja gerade. Ich nehme das da. Ist Herr Klein schon da?"
+  },
+  {
+    "id": "A1_clean_0143",
+    "level": "A1",
+    "letter": "D",
+    "word": "daneben",
+    "type": "word",
+    "sentence_de": "Du kennst doch die Post. Daneben ist die Bank."
+  },
+  {
+    "id": "A1_clean_0144",
+    "level": "A1",
+    "letter": "D",
+    "word": "Dank",
+    "article": "der",
+    "type": "noun",
+    "sentence_de": "Vielen Dank! Herzlichen Dank!"
+  },
+  {
+    "id": "A1_clean_0145",
+    "level": "A1",
+    "letter": "D",
+    "word": "danke",
+    "type": "word",
+    "sentence_de": "Soll ich Ihnen helfen? - Nein, danke!"
+  },
+  {
+    "id": "A1_clean_0146",
+    "level": "A1",
+    "letter": "D",
+    "word": "danken",
+    "type": "word",
+    "sentence_de": "Ich danke Ihnen für die Einladung."
+  },
+  {
+    "id": "A1_clean_0147",
+    "level": "A1",
+    "letter": "D",
+    "word": "dann",
+    "type": "word",
+    "sentence_de": "Ich muss noch schnell zur Post, dann komme ich."
+  },
+  {
+    "id": "A1_clean_0148",
+    "level": "A1",
+    "letter": "D",
+    "word": "Datum",
+    "article": "das",
+    "type": "noun",
+    "sentence_de": "Bitte schreiben Sie noch das Datum auf das Formular."
+  },
+  {
+    "id": "A1_clean_0149",
+    "level": "A1",
+    "letter": "D",
+    "word": "dauern",
+    "type": "word",
+    "sentence_de": "Wie lange dauert der Film?"
+  },
+  {
+    "id": "A1_clean_0150",
+    "level": "A1",
+    "letter": "D",
+    "word": "dein-",
+    "type": "word",
+    "sentence_de": "Ist das dein Auto? Ist das deins?"
+  },
+  {
+    "id": "A1_clean_0151",
+    "level": "A1",
+    "letter": "D",
+    "word": "denn",
+    "type": "word",
+    "sentence_de": "Ich kann nicht kommen, denn ich bin krank."
+  },
+  {
+    "id": "A1_clean_0152",
+    "level": "A1",
+    "letter": "D",
+    "word": "der",
+    "type": "word",
+    "plural": "die, das",
+    "sentence_de": "Ich nehme das da. Hier ist der Brief, den du suchst. Die Fahrkarte bekommst du am Bahnhof."
+  },
+  {
+    "id": "A1_clean_0153",
+    "level": "A1",
+    "letter": "D",
+    "word": "dich",
+    "type": "word",
+    "sentence_de": "Die Blumen sind für dich."
+  },
+  {
+    "id": "A1_clean_0154",
+    "level": "A1",
+    "letter": "D",
+    "word": "dies-",
+    "type": "word",
+    "sentence_de": "Ich nehme lieber diesen Kuchen."
+  },
+  {
+    "id": "A1_clean_0155",
+    "level": "A1",
+    "letter": "D",
+    "word": "dir",
+    "type": "word",
+    "sentence_de": "Gefallen dir die Blumen?"
+  },
+  {
+    "id": "A1_clean_0156",
+    "level": "A1",
+    "letter": "D",
+    "word": "Disco",
+    "article": "die",
+    "type": "noun",
+    "sentence_de": "Heute abend gehen wir in die Disco tanzen."
+  },
+  {
+    "id": "A1_clean_0157",
+    "level": "A1",
+    "letter": "D",
+    "word": "Doktor",
+    "article": "der",
+    "type": "noun",
+    "sentence_de": "Meine Tochter ist krank. Wir gehen zum Doktor."
+  },
+  {
+    "id": "A1_clean_0158",
+    "level": "A1",
+    "letter": "D",
+    "word": "Doppelzimmer",
+    "article": "das",
+    "type": "noun",
+    "sentence_de": "Wollen Sie ein Doppelzimmer oder ein Einzelzimmer?"
+  },
+  {
+    "id": "A1_clean_0159",
+    "level": "A1",
+    "letter": "D",
+    "word": "Dorf",
+    "article": "das",
+    "type": "noun",
+    "plural": "-ö, er",
+    "sentence_de": "Meine Familie lebt in einem Dorf. Deine Tasche kannst du dorthin stellen. Dort ist unser Haus."
+  },
+  {
+    "id": "A1_clean_0160",
+    "level": "A1",
+    "letter": "D",
+    "word": "draußen",
+    "type": "word",
+    "sentence_de": "Wollen wir draußen sitzen?"
+  },
+  {
+    "id": "A1_clean_0161",
+    "level": "A1",
+    "letter": "D",
+    "word": "drucken",
+    "type": "word",
+    "sentence_de": "Bitte drucke das Formular für mich."
+  },
+  {
+    "id": "A1_clean_0162",
+    "level": "A1",
+    "letter": "D",
+    "word": "drücken",
+    "type": "word",
+    "sentence_de": "Drück hier, dann geht der Computer an."
+  },
+  {
+    "id": "A1_clean_0163",
+    "level": "A1",
+    "letter": "D",
+    "word": "Drucker",
+    "article": "der",
+    "type": "noun",
+    "plural": "–",
+    "sentence_de": "Mein Drucker ist kaputt."
+  },
+  {
+    "id": "A1_clean_0164",
+    "level": "A1",
+    "letter": "D",
+    "word": "durch",
+    "type": "word",
+    "sentence_de": "Am besten gehen Sie durch die Breite Straße."
+  },
+  {
+    "id": "A1_clean_0165",
+    "level": "A1",
+    "letter": "D",
+    "word": "Durchsage",
+    "article": "die",
+    "type": "noun",
+    "plural": "-n",
+    "sentence_de": "Ich habe die Durchsage nicht verstanden."
+  },
+  {
+    "id": "A1_clean_0166",
+    "level": "A1",
+    "letter": "D",
+    "word": "dürfen",
+    "type": "word",
+    "sentence_de": "Sie dürfen hier nicht rauchen. Darf ich Sie zu einem Kaffee einladen? Es darf nicht mehr als 15 Euro kosten."
+  },
+  {
+    "id": "A1_clean_0167",
+    "level": "A1",
+    "letter": "D",
+    "word": "Durst",
+    "article": "der",
+    "type": "noun",
+    "sentence_de": "Hast du etwas zu trinken? Ich habe großen Durst."
+  },
+  {
+    "id": "A1_clean_0168",
+    "level": "A1",
+    "letter": "D",
+    "word": "Dusche",
+    "article": "die",
+    "type": "noun",
+    "sentence_de": "Unsere Wohnung hat nur eine Dusche."
+  },
+  {
+    "id": "A1_clean_0169",
+    "level": "A1",
+    "letter": "D",
+    "word": "duschen",
+    "type": "word",
+    "sentence_de": "Ich bade nicht so gern, ich dusche lieber."
+  },
+  {
+    "id": "A1_clean_0170",
+    "level": "A1",
+    "letter": "E",
+    "word": "E-Mail",
+    "article": "die",
+    "type": "noun",
+    "plural": "-s",
+    "sentence_de": "Ich habe Ihre E-Mail nicht bekommen."
+  },
+  {
+    "id": "A1_clean_0171",
+    "level": "A1",
+    "letter": "E",
+    "word": "Ecke",
+    "article": "die",
+    "type": "noun",
+    "plural": "-n",
+    "sentence_de": "An der nächsten Ecke links."
+  },
+  {
+    "id": "A1_clean_0172",
+    "level": "A1",
+    "letter": "E",
+    "word": "Ehefrau",
+    "article": "die",
+    "type": "noun",
+    "plural": "-en/"
+  },
+  {
+    "id": "A1_clean_0173",
+    "level": "A1",
+    "letter": "E",
+    "word": "Ehemann",
+    "article": "der",
+    "type": "noun",
+    "plural": "ä, er",
+    "sentence_de": "Das ist mein (Ehe-) Mann/meine (Ehe-) Frau."
+  },
+  {
+    "id": "A1_clean_0174",
+    "level": "A1",
+    "letter": "E",
+    "word": "Ei",
+    "article": "das",
+    "type": "noun",
+    "plural": "-er",
+    "sentence_de": "Möchtest du ein Ei zum Frühstück?"
+  },
+  {
+    "id": "A1_clean_0175",
+    "level": "A1",
+    "letter": "E",
+    "word": "eilig",
+    "type": "word",
+    "sentence_de": "Hast du es eilig?"
+  },
+  {
+    "id": "A1_clean_0176",
+    "level": "A1",
+    "letter": "E",
+    "word": "ein-",
+    "type": "word",
+    "sentence_de": "Ich nehme ein Bier. Willst du auch eins? Ist hier einer, der das kann?"
+  },
+  {
+    "id": "A1_clean_0177",
+    "level": "A1",
+    "letter": "E",
+    "word": "einfach",
+    "type": "word",
+    "sentence_de": "Die Prüfung ist ganz einfach. Hin und zurück? – Nein, bitte nur einfach. Ich brauche nur ein einfaches Zimmer."
+  },
+  {
+    "id": "A1_clean_0178",
+    "level": "A1",
+    "letter": "E",
+    "word": "Eingang",
+    "article": "der",
+    "type": "noun",
+    "sentence_de": "Der Eingang ist um die Ecke."
+  },
+  {
+    "id": "A1_clean_0179",
+    "level": "A1",
+    "letter": "E",
+    "word": "einkaufen",
+    "type": "word",
+    "sentence_de": "Ich muss noch für morgen einkaufen."
+  },
+  {
+    "id": "A1_clean_0180",
+    "level": "A1",
+    "letter": "E",
+    "word": "einmal",
+    "type": "word",
+    "sentence_de": "Diese Prüfung mache ich nicht noch einmal."
+  },
+  {
+    "id": "A1_clean_0181",
+    "level": "A1",
+    "letter": "E",
+    "word": "einsteigen",
+    "type": "word",
+    "sentence_de": "Schnell, steig ein, der Zug fährt gleich."
+  },
+  {
+    "id": "A1_clean_0182",
+    "level": "A1",
+    "letter": "E",
+    "word": "Eintritt",
+    "article": "der",
+    "type": "noun",
+    "sentence_de": "Der Preis für den Eintritt ist 5 Euro."
+  },
+  {
+    "id": "A1_clean_0183",
+    "level": "A1",
+    "letter": "E",
+    "word": "Einzelzimmer",
+    "article": "das",
+    "type": "noun",
+    "sentence_de": "Haben Sie noch ein Einzelzimmer?"
+  },
+  {
+    "id": "A1_clean_0184",
+    "level": "A1",
+    "letter": "E",
+    "word": "Eltern",
+    "article": "die",
+    "type": "noun",
+    "sentence_de": "Meine Eltern leben in Spanien."
+  },
+  {
+    "id": "A1_clean_0185",
+    "level": "A1",
+    "letter": "E",
+    "word": "Empfänger",
+    "article": "der",
+    "type": "noun",
+    "plural": "–",
+    "sentence_de": "Auf dem Brief steht dein Name, also bist du der Empfänger."
+  },
+  {
+    "id": "A1_clean_0186",
+    "level": "A1",
+    "letter": "E",
+    "word": "empfehlen",
+    "type": "word",
+    "sentence_de": "Welchen Wein können Sie mir empfehlen?"
+  },
+  {
+    "id": "A1_clean_0187",
+    "level": "A1",
+    "letter": "E",
+    "word": "Ende",
+    "article": "das",
+    "type": "noun",
+    "sentence_de": "Sie wohnt am Ende der Straße. Er bekommt sein Geld am Ende des Monats."
+  },
+  {
+    "id": "A1_clean_0188",
+    "level": "A1",
+    "letter": "E",
+    "word": "enden",
+    "type": "word",
+    "sentence_de": "Die Straße endet hier."
+  },
+  {
+    "id": "A1_clean_0189",
+    "level": "A1",
+    "letter": "E",
+    "word": "entschuldigen",
+    "type": "word",
+    "sentence_de": "Entschuldigen Sie bitte!"
+  },
+  {
+    "id": "A1_clean_0190",
+    "level": "A1",
+    "letter": "E",
+    "word": "Entschuldigung",
+    "article": "die",
+    "type": "noun",
+    "sentence_de": "Entschuldigung! – Bitte."
+  },
+  {
+    "id": "A1_clean_0191",
+    "level": "A1",
+    "letter": "E",
+    "word": "er",
+    "type": "word",
+    "sentence_de": "Er heißt Ali."
+  },
+  {
+    "id": "A1_clean_0192",
+    "level": "A1",
+    "letter": "E",
+    "word": "Ergebnis",
+    "article": "das",
+    "type": "noun",
+    "plural": "-se",
+    "sentence_de": "Das Ergebnis des Tests bekommen Sie in zwei Wochen."
+  },
+  {
+    "id": "A1_clean_0193",
+    "level": "A1",
+    "letter": "E",
+    "word": "erklären",
+    "type": "word",
+    "sentence_de": "Kannst du mir das erklären?"
+  },
+  {
+    "id": "A1_clean_0194",
+    "level": "A1",
+    "letter": "E",
+    "word": "erlauben",
+    "type": "word",
+    "sentence_de": "Rauchen ist hier nicht erlaubt."
+  },
+  {
+    "id": "A1_clean_0195",
+    "level": "A1",
+    "letter": "E",
+    "word": "Erwachsene",
+    "article": "der",
+    "type": "noun",
+    "plural": "-n",
+    "sentence_de": "Dieser Film ist nur für Erwachsene."
+  },
+  {
+    "id": "A1_clean_0196",
+    "level": "A1",
+    "letter": "E",
+    "word": "erzählen",
+    "type": "word",
+    "sentence_de": "Wir müssen euch etwas erzählen!"
+  },
+  {
+    "id": "A1_clean_0197",
+    "level": "A1",
+    "letter": "E",
+    "word": "es",
+    "type": "word",
+    "sentence_de": "Es regnet."
+  },
+  {
+    "id": "A1_clean_0198",
+    "level": "A1",
+    "letter": "E",
+    "word": "essen",
+    "type": "word",
+    "sentence_de": "Was gibt es zu essen?"
+  },
+  {
+    "id": "A1_clean_0199",
+    "level": "A1",
+    "letter": "E",
+    "word": "Essen",
+    "article": "das",
+    "type": "noun",
+    "sentence_de": "Das Essen ist heute sehr gut."
+  },
+  {
+    "id": "A1_clean_0200",
+    "level": "A1",
+    "letter": "E",
+    "word": "euer",
+    "type": "word",
+    "sentence_de": "Euer Kurs beginnt heute."
+  },
+  {
+    "id": "A1_clean_0201",
+    "level": "A1",
+    "letter": "F",
+    "word": "fahren",
+    "type": "word",
+    "sentence_de": "Ich fahre mit dem Auto zur Arbeit."
+  },
+  {
+    "id": "A1_clean_0202",
+    "level": "A1",
+    "letter": "F",
+    "word": "Fahrer",
+    "article": "der",
+    "type": "noun",
+    "sentence_de": "Bitte nicht mit dem Fahrer sprechen!"
+  },
+  {
+    "id": "A1_clean_0203",
+    "level": "A1",
+    "letter": "F",
+    "word": "Fahrkarte",
+    "article": "die",
+    "type": "noun",
+    "plural": "-n",
+    "sentence_de": "Hast du schon eine Fahrkarte?"
+  },
+  {
+    "id": "A1_clean_0204",
+    "level": "A1",
+    "letter": "F",
+    "word": "Fahrrad",
+    "article": "das",
+    "type": "noun",
+    "plural": "-ä, er",
+    "sentence_de": "Fährst du mit dem Fahrrad oder mit dem Auto?"
+  },
+  {
+    "id": "A1_clean_0205",
+    "level": "A1",
+    "letter": "F",
+    "word": "falsch",
+    "type": "word",
+    "sentence_de": "Das ist falsch."
+  },
+  {
+    "id": "A1_clean_0206",
+    "level": "A1",
+    "letter": "F",
+    "word": "Familie",
+    "article": "die",
+    "type": "noun",
+    "plural": "-n",
+    "sentence_de": "Meine Familie lebt in Spanien."
+  },
+  {
+    "id": "A1_clean_0207",
+    "level": "A1",
+    "letter": "F",
+    "word": "Familienname",
+    "article": "der",
+    "type": "noun",
+    "sentence_de": "Meine Familiennamen sind García González."
+  },
+  {
+    "id": "A1_clean_0208",
+    "level": "A1",
+    "letter": "F",
+    "word": "Familienstand",
+    "article": "der",
+    "type": "noun",
+    "sentence_de": "Bei „Familienstand“ musst du „ledig“ ankreuzen."
+  },
+  {
+    "id": "A1_clean_0209",
+    "level": "A1",
+    "letter": "F",
+    "word": "Farbe",
+    "article": "die",
+    "type": "noun",
+    "plural": "-n",
+    "sentence_de": "Die Farbe gefällt mir gut."
+  },
+  {
+    "id": "A1_clean_0210",
+    "level": "A1",
+    "letter": "F",
+    "word": "Fax",
+    "article": "das",
+    "type": "noun",
+    "plural": "-e",
+    "sentence_de": "Schicken Sie uns einfach ein Fax!"
+  },
+  {
+    "id": "A1_clean_0211",
+    "level": "A1",
+    "letter": "F",
+    "word": "fehlen",
+    "type": "word",
+    "sentence_de": "Herr Müller ist nicht da, er fehlt schon seit drei Tagen. Was fehlt Ihnen?"
+  },
+  {
+    "id": "A1_clean_0212",
+    "level": "A1",
+    "letter": "F",
+    "word": "Fehler",
+    "article": "der",
+    "type": "noun",
+    "plural": "–",
+    "sentence_de": "Diesen Fehler mache ich immer."
+  },
+  {
+    "id": "A1_clean_0213",
+    "level": "A1",
+    "letter": "F",
+    "word": "Feier-",
+    "type": "word",
+    "sentence_de": "z. B. Feierabend, Feiertag Am Montag ist Feiertag."
+  },
+  {
+    "id": "A1_clean_0214",
+    "level": "A1",
+    "letter": "F",
+    "word": "feiern",
+    "type": "word",
+    "sentence_de": "Wir feiern heute meinen Geburtstag."
+  },
+  {
+    "id": "A1_clean_0215",
+    "level": "A1",
+    "letter": "F",
+    "word": "fernsehen",
+    "type": "word",
+    "sentence_de": "Wollen wir heute Abend mal fernsehen?"
+  },
+  {
+    "id": "A1_clean_0216",
+    "level": "A1",
+    "letter": "F",
+    "word": "fertig",
+    "type": "word",
+    "sentence_de": "Bist du fertig? Ist mein Auto schon fertig?"
+  },
+  {
+    "id": "A1_clean_0217",
+    "level": "A1",
+    "letter": "F",
+    "word": "Feuer",
+    "article": "das",
+    "type": "noun",
+    "sentence_de": "Haben Sie Feuer?"
+  },
+  {
+    "id": "A1_clean_0218",
+    "level": "A1",
+    "letter": "F",
+    "word": "Fieber",
+    "article": "das",
+    "type": "noun",
+    "sentence_de": "Mein Mann hat noch immer Fieber."
+  },
+  {
+    "id": "A1_clean_0219",
+    "level": "A1",
+    "letter": "F",
+    "word": "Film",
+    "article": "der",
+    "type": "noun",
+    "plural": "-e",
+    "sentence_de": "Ich möchte gern diesen Film sehen."
+  },
+  {
+    "id": "A1_clean_0220",
+    "level": "A1",
+    "letter": "F",
+    "word": "finden",
+    "type": "word",
+    "sentence_de": "Wir müssen den Schlüssel finden."
+  },
+  {
+    "id": "A1_clean_0221",
+    "level": "A1",
+    "letter": "F",
+    "word": "Flasche",
+    "article": "die",
+    "type": "noun",
+    "plural": "-n",
+    "sentence_de": "Eine Flasche Bier, bitte."
+  },
+  {
+    "id": "A1_clean_0222",
+    "level": "A1",
+    "letter": "F",
+    "word": "Fleisch",
+    "article": "das",
+    "type": "noun",
+    "sentence_de": "Fleisch mag ich nicht."
+  },
+  {
+    "id": "A1_clean_0223",
+    "level": "A1",
+    "letter": "F",
+    "word": "fliegen",
+    "type": "word",
+    "sentence_de": "Ich fliege nicht gern. Deshalb fahre ich mit dem Zug."
+  },
+  {
+    "id": "A1_clean_0224",
+    "level": "A1",
+    "letter": "F",
+    "word": "Flughafen",
+    "article": "der",
+    "type": "noun",
+    "sentence_de": "Kannst du mich zum Flughafen bringen?"
+  },
+  {
+    "id": "A1_clean_0225",
+    "level": "A1",
+    "letter": "F",
+    "word": "Flugzeug",
+    "article": "das",
+    "type": "noun",
+    "sentence_de": "Das Flugzeug aus Berlin kommt heute später an."
+  },
+  {
+    "id": "A1_clean_0226",
+    "level": "A1",
+    "letter": "F",
+    "word": "Formular",
+    "article": "das",
+    "type": "noun",
+    "plural": "-e",
+    "sentence_de": "Sie müssen dieses Formular ausfüllen."
+  },
+  {
+    "id": "A1_clean_0227",
+    "level": "A1",
+    "letter": "F",
+    "word": "Foto",
+    "article": "das",
+    "type": "noun",
+    "plural": "-s",
+    "sentence_de": "Darf ich ein Foto machen?"
+  },
+  {
+    "id": "A1_clean_0228",
+    "level": "A1",
+    "letter": "F",
+    "word": "Frage",
+    "article": "die",
+    "type": "noun",
+    "plural": "-n",
+    "sentence_de": "Ich habe eine Frage."
+  },
+  {
+    "id": "A1_clean_0229",
+    "level": "A1",
+    "letter": "F",
+    "word": "fragen",
+    "type": "word",
+    "sentence_de": "Er möchte Sie etwas fragen. Wann kommen Sie?"
+  },
+  {
+    "id": "A1_clean_0230",
+    "level": "A1",
+    "letter": "F",
+    "word": "Frau",
+    "article": "die",
+    "type": "noun",
+    "plural": "-en",
+    "sentence_de": "Das ist Frau Becker. Guten Tag, Frau Schmitt! Hier arbeiten mehr Frauen als Männer."
+  },
+  {
+    "id": "A1_clean_0231",
+    "level": "A1",
+    "letter": "F",
+    "word": "frei",
+    "type": "word",
+    "sentence_de": "Ist der Platz noch frei?"
+  },
+  {
+    "id": "A1_clean_0232",
+    "level": "A1",
+    "letter": "F",
+    "word": "Freizeit",
+    "article": "die",
+    "type": "noun",
+    "sentence_de": "In meiner Freizeit spiele ich oft Fußball."
+  },
+  {
+    "id": "A1_clean_0233",
+    "level": "A1",
+    "letter": "F",
+    "word": "fremd",
+    "type": "word",
+    "sentence_de": "Das weiß ich nicht; ich bin fremd hier."
+  },
+  {
+    "id": "A1_clean_0234",
+    "level": "A1",
+    "letter": "F",
+    "word": "freuen",
+    "type": "word",
+    "sentence_de": "Ich freue mich auf den Urlaub."
+  },
+  {
+    "id": "A1_clean_0235",
+    "level": "A1",
+    "letter": "F",
+    "word": "Freund",
+    "article": "der",
+    "type": "noun",
+    "plural": "-e",
+    "sentence_de": "Das ist ein Freund von mir. Das ist meine Freundin."
+  },
+  {
+    "id": "A1_clean_0236",
+    "level": "A1",
+    "letter": "F",
+    "word": "früher",
+    "type": "word",
+    "sentence_de": "Früher waren wir oft zusammen im Kino."
+  },
+  {
+    "id": "A1_clean_0237",
+    "level": "A1",
+    "letter": "F",
+    "word": "Frühstück",
+    "article": "das",
+    "type": "noun",
+    "sentence_de": "Möchtest du ein Ei zum Frühstück?"
+  },
+  {
+    "id": "A1_clean_0238",
+    "level": "A1",
+    "letter": "F",
+    "word": "frühstücken",
+    "type": "word",
+    "sentence_de": "Am Sonntag frühstücke ich gern im Bett."
+  },
+  {
+    "id": "A1_clean_0239",
+    "level": "A1",
+    "letter": "F",
+    "word": "Führung",
+    "article": "die",
+    "type": "noun",
+    "sentence_de": "Die Führung durch das Haus beginnt in 3 Minuten."
+  },
+  {
+    "id": "A1_clean_0240",
+    "level": "A1",
+    "letter": "F",
+    "word": "für",
+    "type": "word",
+    "sentence_de": "Das ist für Sie. Das ist der Schlüssel für die Haustür. Das ist das Brot für morgen."
+  },
+  {
+    "id": "A1_clean_0241",
+    "level": "A1",
+    "letter": "F",
+    "word": "Fuß",
+    "article": "der",
+    "type": "noun",
+    "plural": "-ü, e",
+    "sentence_de": "Der linke Fuß tut mir weh."
+  },
+  {
+    "id": "A1_clean_0242",
+    "level": "A1",
+    "letter": "F",
+    "word": "Fußball",
+    "article": "der",
+    "type": "noun",
+    "sentence_de": "Spielt ihr gerne Fußball?"
+  },
+  {
+    "id": "A1_clean_0243",
+    "level": "A1",
+    "letter": "G",
+    "word": "Garten",
+    "article": "der",
+    "type": "noun",
+    "sentence_de": "Wir haben leider keinen Garten."
+  },
+  {
+    "id": "A1_clean_0244",
+    "level": "A1",
+    "letter": "G",
+    "word": "Gast",
+    "article": "der",
+    "type": "noun",
+    "plural": "-ä, e",
+    "sentence_de": "Am Wochenende haben wir mehrere Gäste."
+  },
+  {
+    "id": "A1_clean_0245",
+    "level": "A1",
+    "letter": "G",
+    "word": "geben",
+    "type": "word",
+    "sentence_de": "Kannst du mir bitte deinen Kugelschreiber geben? Es gibt keine Karten mehr."
+  },
+  {
+    "id": "A1_clean_0246",
+    "level": "A1",
+    "letter": "G",
+    "word": "geboren",
+    "type": "word",
+    "sentence_de": "Ich bin in Zagreb geboren."
+  },
+  {
+    "id": "A1_clean_0247",
+    "level": "A1",
+    "letter": "G",
+    "word": "Geburtsjahr",
+    "article": "das",
+    "type": "noun",
+    "sentence_de": "Das Geburtsjahr Ihres Sohnes, bitte?"
+  },
+  {
+    "id": "A1_clean_0248",
+    "level": "A1",
+    "letter": "G",
+    "word": "Geburtsort",
+    "article": "der",
+    "type": "noun",
+    "sentence_de": "Bitte schreiben Sie Ihren Geburtsort auf das Formular."
+  },
+  {
+    "id": "A1_clean_0249",
+    "level": "A1",
+    "letter": "G",
+    "word": "Geburtstag",
+    "article": "der",
+    "type": "noun",
+    "sentence_de": "Herzlichen Glückwunsch zum Geburtstag!"
+  },
+  {
+    "id": "A1_clean_0250",
+    "level": "A1",
+    "letter": "G",
+    "word": "gefallen",
+    "type": "word",
+    "sentence_de": "Das gefällt mir."
+  },
+  {
+    "id": "A1_clean_0251",
+    "level": "A1",
+    "letter": "G",
+    "word": "gegen",
+    "type": "word",
+    "sentence_de": "Fahr nicht gegen den Baum! Ich bin gegen diese Lösung. Wer spielt gegen wen?"
+  },
+  {
+    "id": "A1_clean_0252",
+    "level": "A1",
+    "letter": "G",
+    "word": "gehen",
+    "type": "word",
+    "sentence_de": "Ich weiß nicht, wie das geht. Wie geht's? Jetzt muss ich (aber) leider gehen. Ich muss zum Arzt gehen. Das geht nicht!"
+  },
+  {
+    "id": "A1_clean_0253",
+    "level": "A1",
+    "letter": "G",
+    "word": "gehören",
+    "type": "word",
+    "sentence_de": "Wem gehört das?"
+  },
+  {
+    "id": "A1_clean_0254",
+    "level": "A1",
+    "letter": "G",
+    "word": "geöffnet",
+    "type": "word",
+    "sentence_de": "Der Laden ist samstags bis 16.00 Uhr geöffnet."
+  },
+  {
+    "id": "A1_clean_0255",
+    "level": "A1",
+    "letter": "G",
+    "word": "Gepäck",
+    "article": "das",
+    "type": "noun",
+    "sentence_de": "Wollen Sie Ihr Gepäck mitnehmen?"
+  },
+  {
+    "id": "A1_clean_0256",
+    "level": "A1",
+    "letter": "G",
+    "word": "gerade",
+    "type": "word",
+    "sentence_de": "Da kommt er ja gerade."
+  },
+  {
+    "id": "A1_clean_0257",
+    "level": "A1",
+    "letter": "G",
+    "word": "geradeaus",
+    "type": "word",
+    "sentence_de": "Gehen Sie immer geradeaus!"
+  },
+  {
+    "id": "A1_clean_0258",
+    "level": "A1",
+    "letter": "G",
+    "word": "gern",
+    "type": "word",
+    "sentence_de": "Ich gehe gerne einkaufen."
+  },
+  {
+    "id": "A1_clean_0259",
+    "level": "A1",
+    "letter": "G",
+    "word": "Geschäft",
+    "article": "das",
+    "type": "noun",
+    "plural": "-e",
+    "sentence_de": "Die Geschäfte schließen um 18.30 Uhr."
+  },
+  {
+    "id": "A1_clean_0260",
+    "level": "A1",
+    "letter": "G",
+    "word": "Geschenk",
+    "article": "das",
+    "type": "noun",
+    "plural": "-e",
+    "sentence_de": "Danke für das schöne Geschenk."
+  },
+  {
+    "id": "A1_clean_0261",
+    "level": "A1",
+    "letter": "G",
+    "word": "geschlossen",
+    "type": "word",
+    "sentence_de": "Die Bank hat am Samstag geschlossen."
+  },
+  {
+    "id": "A1_clean_0262",
+    "level": "A1",
+    "letter": "G",
+    "word": "Geschwister",
+    "article": "die",
+    "type": "noun",
+    "sentence_de": "Ich habe leider keine Geschwister."
+  },
+  {
+    "id": "A1_clean_0263",
+    "level": "A1",
+    "letter": "G",
+    "word": "Gespräch",
+    "article": "das",
+    "type": "noun",
+    "plural": "-e",
+    "sentence_de": "Das Gespräch mit Frau Kunz ist um 14 Uhr."
+  },
+  {
+    "id": "A1_clean_0264",
+    "level": "A1",
+    "letter": "G",
+    "word": "gestern",
+    "type": "word",
+    "sentence_de": "Gestern war ich krank."
+  },
+  {
+    "id": "A1_clean_0265",
+    "level": "A1",
+    "letter": "G",
+    "word": "gestorben",
+    "type": "word",
+    "sentence_de": "Meine Frau ist gestern gestorben."
+  },
+  {
+    "id": "A1_clean_0266",
+    "level": "A1",
+    "letter": "G",
+    "word": "Getränk",
+    "article": "das",
+    "type": "noun",
+    "plural": "-e",
+    "sentence_de": "Mein Lieblingsgetränk ist Tomatensaft."
+  },
+  {
+    "id": "A1_clean_0267",
+    "level": "A1",
+    "letter": "G",
+    "word": "Gewicht",
+    "article": "das",
+    "type": "noun",
+    "sentence_de": "Bei „Gewicht“ schreibst du: 62 Kilo."
+  },
+  {
+    "id": "A1_clean_0268",
+    "level": "A1",
+    "letter": "G",
+    "word": "gewinnen",
+    "type": "word",
+    "sentence_de": "Wer gewinnt das Spiel?"
+  },
+  {
+    "id": "A1_clean_0269",
+    "level": "A1",
+    "letter": "G",
+    "word": "Glas",
+    "article": "das",
+    "type": "noun",
+    "plural": "-ä, er",
+    "sentence_de": "Bitte noch ein Glas Wein! Wir brauchen noch drei Gläser."
+  },
+  {
+    "id": "A1_clean_0270",
+    "level": "A1",
+    "letter": "G",
+    "word": "glauben",
+    "type": "word",
+    "sentence_de": "Sie können mir glauben, es ist so. Ich glaube, er kommt gleich."
+  },
+  {
+    "id": "A1_clean_0271",
+    "level": "A1",
+    "letter": "G",
+    "word": "gleich",
+    "type": "word",
+    "sentence_de": "Das ist mir gleich. Das ist der gleiche Preis. Ich komme gleich."
+  },
+  {
+    "id": "A1_clean_0272",
+    "level": "A1",
+    "letter": "G",
+    "word": "Gleis",
+    "article": "das",
+    "type": "noun",
+    "plural": "-e",
+    "sentence_de": "Der ICE nach Berlin hält heute an Gleis 12."
+  },
+  {
+    "id": "A1_clean_0273",
+    "level": "A1",
+    "letter": "G",
+    "word": "Glück",
+    "article": "das",
+    "type": "noun",
+    "sentence_de": "Viel Glück!"
+  },
+  {
+    "id": "A1_clean_0274",
+    "level": "A1",
+    "letter": "G",
+    "word": "glücklich",
+    "type": "word",
+    "sentence_de": "Meine Kinder sind glücklich verheiratet."
+  },
+  {
+    "id": "A1_clean_0275",
+    "level": "A1",
+    "letter": "G",
+    "word": "Glückwunsch",
+    "article": "der",
+    "type": "noun",
+    "sentence_de": "Herzlichen Glückwunsch zum Geburtstag."
+  },
+  {
+    "id": "A1_clean_0276",
+    "level": "A1",
+    "letter": "G",
+    "word": "Grad",
+    "type": "word",
+    "sentence_de": "Heute haben wir dreißig Grad."
+  },
+  {
+    "id": "A1_clean_0277",
+    "level": "A1",
+    "letter": "G",
+    "word": "gratulieren",
+    "type": "word",
+    "sentence_de": "Ich gratuliere dir!"
+  },
+  {
+    "id": "A1_clean_0278",
+    "level": "A1",
+    "letter": "G",
+    "word": "grillen",
+    "type": "word",
+    "sentence_de": "Heute grillen wir im Garten."
+  },
+  {
+    "id": "A1_clean_0279",
+    "level": "A1",
+    "letter": "G",
+    "word": "groß",
+    "type": "word",
+    "sentence_de": "Mein Bruder und ich sind gleich groß. Frankfurt ist eine große Stadt."
+  },
+  {
+    "id": "A1_clean_0280",
+    "level": "A1",
+    "letter": "G",
+    "word": "Größe",
+    "article": "die",
+    "type": "noun",
+    "sentence_de": "Haben Sie das auch in Größe 40?"
+  },
+  {
+    "id": "A1_clean_0281",
+    "level": "A1",
+    "letter": "G",
+    "word": "Großeltern",
+    "article": "die",
+    "type": "noun",
+    "sentence_de": "Meine Großeltern leben in Japan."
+  },
+  {
+    "id": "A1_clean_0282",
+    "level": "A1",
+    "letter": "G",
+    "word": "Großmutter",
+    "article": "die",
+    "type": "noun",
+    "sentence_de": "Meine Großmutter heißt Eva."
+  },
+  {
+    "id": "A1_clean_0283",
+    "level": "A1",
+    "letter": "G",
+    "word": "Großvater",
+    "article": "der",
+    "type": "noun",
+    "sentence_de": "Mein Großvater ist schon 80."
+  },
+  {
+    "id": "A1_clean_0284",
+    "level": "A1",
+    "letter": "G",
+    "word": "Gruppe",
+    "article": "die",
+    "type": "noun",
+    "plural": "-n",
+    "sentence_de": "Die erste Gruppe beginnt um 16 Uhr."
+  },
+  {
+    "id": "A1_clean_0285",
+    "level": "A1",
+    "letter": "G",
+    "word": "Gruß",
+    "article": "der",
+    "type": "noun",
+    "plural": "-ü, e",
+    "sentence_de": "Viele Grüße an Ihre Frau. Mit freundlichen Grüßen"
+  },
+  {
+    "id": "A1_clean_0286",
+    "level": "A1",
+    "letter": "G",
+    "word": "gültig",
+    "type": "word",
+    "sentence_de": "Der Pass ist nicht mehr gültig."
+  },
+  {
+    "id": "A1_clean_0287",
+    "level": "A1",
+    "letter": "G",
+    "word": "günstig",
+    "type": "word",
+    "sentence_de": "Dort gibt es günstige Angebote."
+  },
+  {
+    "id": "A1_clean_0288",
+    "level": "A1",
+    "letter": "G",
+    "word": "gut",
+    "type": "word",
+    "sentence_de": "Das finde ich gut. Ich komme um 13 Uhr. – Gut! Guten Morgen! Ein gutes neues Jahr! Guten Appetit!"
+  },
+  {
+    "id": "A1_clean_0289",
+    "level": "A1",
+    "letter": "H",
+    "word": "Haar",
+    "article": "das",
+    "type": "noun",
+    "plural": "-e",
+    "sentence_de": "Sie hat lange Haare."
+  },
+  {
+    "id": "A1_clean_0290",
+    "level": "A1",
+    "letter": "H",
+    "word": "haben",
+    "type": "word",
+    "sentence_de": "Ich habe ein neues Auto."
+  },
+  {
+    "id": "A1_clean_0291",
+    "level": "A1",
+    "letter": "H",
+    "word": "Hähnchen",
+    "article": "das",
+    "type": "noun",
+    "plural": "-",
+    "sentence_de": "Ein Hähnchen mit Pommes bitte!"
+  },
+  {
+    "id": "A1_clean_0292",
+    "level": "A1",
+    "letter": "H",
+    "word": "Halbpension",
+    "article": "die",
+    "type": "noun",
+    "sentence_de": "Möchten Sie Vollpension oder Halbpension?"
+  },
+  {
+    "id": "A1_clean_0293",
+    "level": "A1",
+    "letter": "H",
+    "word": "halten",
+    "type": "word",
+    "sentence_de": "Dieser Zug hält nicht in Rüdesheim."
+  },
+  {
+    "id": "A1_clean_0294",
+    "level": "A1",
+    "letter": "H",
+    "word": "Haltestelle",
+    "article": "die",
+    "type": "noun",
+    "sentence_de": "An der nächsten Haltestelle müssen Sie aussteigen."
+  },
+  {
+    "id": "A1_clean_0295",
+    "level": "A1",
+    "letter": "H",
+    "word": "Hand",
+    "article": "die",
+    "type": "noun",
+    "plural": "-ä, e",
+    "sentence_de": "Er gibt mir die Hand."
+  },
+  {
+    "id": "A1_clean_0296",
+    "level": "A1",
+    "letter": "H",
+    "word": "Handy",
+    "article": "das",
+    "type": "noun",
+    "plural": "-s",
+    "sentence_de": "In der Schule bitte die Handys ausmachen!"
+  },
+  {
+    "id": "A1_clean_0297",
+    "level": "A1",
+    "letter": "H",
+    "word": "Haus",
+    "article": "das",
+    "type": "noun",
+    "plural": "-ä, er",
+    "sentence_de": "In welchem Haus wohnst du? Ich gehe jetzt nach Hause. Paul ist nicht zu Hause."
+  },
+  {
+    "id": "A1_clean_0298",
+    "level": "A1",
+    "letter": "H",
+    "word": "Hausaufgabe",
+    "article": "die",
+    "type": "noun",
+    "plural": "-n",
+    "sentence_de": "Kannst du mir bei den Hausaufgaben helfen?"
+  },
+  {
+    "id": "A1_clean_0299",
+    "level": "A1",
+    "letter": "H",
+    "word": "Hausfrau",
+    "article": "die",
+    "type": "noun",
+    "plural": "-en/"
+  },
+  {
+    "id": "A1_clean_0300",
+    "level": "A1",
+    "letter": "H",
+    "word": "Hausmann",
+    "article": "der",
+    "type": "noun",
+    "sentence_de": "Die Hausfrau/der Hausmann wäscht, kocht und kauft ein."
+  },
+  {
+    "id": "A1_clean_0301",
+    "level": "A1",
+    "letter": "H",
+    "word": "Heimat",
+    "article": "die",
+    "type": "noun",
+    "sentence_de": "Ich komme aus der Schweiz. Das ist meine Heimat."
+  },
+  {
+    "id": "A1_clean_0302",
+    "level": "A1",
+    "letter": "H",
+    "word": "heiraten",
+    "type": "word",
+    "sentence_de": "Meine Schwester heiratet einen Japaner."
+  },
+  {
+    "id": "A1_clean_0303",
+    "level": "A1",
+    "letter": "H",
+    "word": "heißen",
+    "type": "word",
+    "sentence_de": "Ich heiße Charlotte Meier. Wie heißt das auf Deutsch?"
+  },
+  {
+    "id": "A1_clean_0304",
+    "level": "A1",
+    "letter": "H",
+    "word": "helfen",
+    "type": "word",
+    "sentence_de": "Können Sie mir helfen, bitte?"
+  },
+  {
+    "id": "A1_clean_0305",
+    "level": "A1",
+    "letter": "H",
+    "word": "hell",
+    "type": "word",
+    "sentence_de": "Im Sommer ist es bis 21 Uhr hell."
+  },
+  {
+    "id": "A1_clean_0306",
+    "level": "A1",
+    "letter": "H",
+    "word": "Herd",
+    "article": "der",
+    "type": "noun",
+    "sentence_de": "In der neuen Küche fehlt noch der Herd."
+  },
+  {
+    "id": "A1_clean_0307",
+    "level": "A1",
+    "letter": "H",
+    "word": "Herr",
+    "article": "der",
+    "type": "noun",
+    "plural": "-en",
+    "sentence_de": "Guten Tag, Herr Sommer!"
+  },
+  {
+    "id": "A1_clean_0308",
+    "level": "A1",
+    "letter": "H",
+    "word": "herzlich",
+    "type": "word",
+    "sentence_de": "Herzlichen Glückwunsch!"
+  },
+  {
+    "id": "A1_clean_0309",
+    "level": "A1",
+    "letter": "H",
+    "word": "heute",
+    "type": "word",
+    "sentence_de": "Heute ist ein schöner Tag."
+  },
+  {
+    "id": "A1_clean_0310",
+    "level": "A1",
+    "letter": "H",
+    "word": "hier",
+    "type": "word",
+    "sentence_de": "Hier ist 06131-553221, Pamela Linke. Hier wohne ich."
+  },
+  {
+    "id": "A1_clean_0311",
+    "level": "A1",
+    "letter": "H",
+    "word": "Hilfe",
+    "article": "die",
+    "type": "noun",
+    "sentence_de": "Hilfe! Bitte helfen Sie mir! Brauchen Sie meine Hilfe?"
+  },
+  {
+    "id": "A1_clean_0312",
+    "level": "A1",
+    "letter": "H",
+    "word": "hinten",
+    "type": "word",
+    "sentence_de": "Die Tür zum Aussteigen ist hinten."
+  },
+  {
+    "id": "A1_clean_0313",
+    "level": "A1",
+    "letter": "H",
+    "word": "Hobby",
+    "article": "das",
+    "type": "noun",
+    "plural": "-s",
+    "sentence_de": "Meine Hobbys sind Wandern und Schwimmen."
+  },
+  {
+    "id": "A1_clean_0314",
+    "level": "A1",
+    "letter": "H",
+    "word": "hoch",
+    "type": "word",
+    "sentence_de": "Der Mount Everest ist 8.880 Meter hoch."
+  },
+  {
+    "id": "A1_clean_0315",
+    "level": "A1",
+    "letter": "H",
+    "word": "Hochzeit",
+    "article": "die",
+    "type": "noun",
+    "sentence_de": "Zur dieser Hochzeit kommen mehr als fünfzig Gäste."
+  },
+  {
+    "id": "A1_clean_0316",
+    "level": "A1",
+    "letter": "H",
+    "word": "holen",
+    "type": "word",
+    "sentence_de": "Ich hole zwei Flaschen Wasser aus der Küche."
+  },
+  {
+    "id": "A1_clean_0317",
+    "level": "A1",
+    "letter": "H",
+    "word": "hören",
+    "type": "word",
+    "sentence_de": "Hör mal! Was ist das? Ich habe das Lied schon mal gehört."
+  },
+  {
+    "id": "A1_clean_0318",
+    "level": "A1",
+    "letter": "H",
+    "word": "Hotel",
+    "article": "das",
+    "type": "noun",
+    "plural": "-s",
+    "sentence_de": "Im Urlaub sind wir in einem Hotel am Meer."
+  },
+  {
+    "id": "A1_clean_0319",
+    "level": "A1",
+    "letter": "H",
+    "word": "Hund",
+    "article": "der",
+    "type": "noun",
+    "plural": "-e",
+    "sentence_de": "Der Hund ist noch jung."
+  },
+  {
+    "id": "A1_clean_0320",
+    "level": "A1",
+    "letter": "H",
+    "word": "Hunger",
+    "article": "der",
+    "type": "noun",
+    "sentence_de": "Ich habe Hunger! Wann ist das Essen fertig?"
+  },
+  {
+    "id": "A1_clean_0321",
+    "level": "A1",
+    "letter": "I",
+    "word": "ich",
+    "type": "word",
+    "sentence_de": "Ich heiße Veronika."
+  },
+  {
+    "id": "A1_clean_0322",
+    "level": "A1",
+    "letter": "I",
+    "word": "ihr/ihm/ihn",
+    "type": "phrase",
+    "sentence_de": "Gib ihr/ihm bitte das Buch. Ruf ihn bitte an."
+  },
+  {
+    "id": "A1_clean_0323",
+    "level": "A1",
+    "letter": "I",
+    "word": "immer",
+    "type": "word",
+    "sentence_de": "Frau Bast kommt immer zu spät."
+  },
+  {
+    "id": "A1_clean_0324",
+    "level": "A1",
+    "letter": "I",
+    "word": "in",
+    "type": "word",
+    "sentence_de": "Ich wohne in Wiesbaden. Der Zug kommt in fünf Minuten. Frau Rausch arbeitet in einem Geschäft. Komm, wir gehen ins Kino."
+  },
+  {
+    "id": "A1_clean_0325",
+    "level": "A1",
+    "letter": "I",
+    "word": "Information",
+    "article": "die",
+    "type": "noun",
+    "plural": "-en",
+    "sentence_de": "Wenn Sie Fragen haben, gehen Sie zur Information. Wir haben hier wichtige Informationen für Sie."
+  },
+  {
+    "id": "A1_clean_0326",
+    "level": "A1",
+    "letter": "I",
+    "word": "international",
+    "type": "word",
+    "sentence_de": "Unser Deutschkurs ist international: Silvana kommt aus Italien, Conchi aus Spanien, Yin aus China ..."
+  },
+  {
+    "id": "A1_clean_0327",
+    "level": "A1",
+    "letter": "J",
+    "word": "ja",
+    "type": "word",
+    "sentence_de": "Sind Sie Herr Watanabe? – Ja."
+  },
+  {
+    "id": "A1_clean_0328",
+    "level": "A1",
+    "letter": "J",
+    "word": "Jacke",
+    "article": "die",
+    "type": "noun",
+    "plural": "-n",
+    "sentence_de": "Zieh dir eine Jacke an. Es ist kalt."
+  },
+  {
+    "id": "A1_clean_0329",
+    "level": "A1",
+    "letter": "J",
+    "word": "jed-",
+    "type": "word",
+    "sentence_de": "Blumen kannst du in jedem Bahnhof kaufen."
+  },
+  {
+    "id": "A1_clean_0330",
+    "level": "A1",
+    "letter": "J",
+    "word": "jetzt",
+    "type": "word",
+    "sentence_de": "Jetzt machen wir eine Pause."
+  },
+  {
+    "id": "A1_clean_0331",
+    "level": "A1",
+    "letter": "J",
+    "word": "Job",
+    "article": "der",
+    "type": "noun",
+    "plural": "-s",
+    "sentence_de": "Jenny hat einen neuen Job bei der Post."
+  },
+  {
+    "id": "A1_clean_0332",
+    "level": "A1",
+    "letter": "J",
+    "word": "Jugendliche",
+    "article": "der",
+    "type": "noun",
+    "plural": "-n",
+    "sentence_de": "Viele Jugendliche kaufen gern ein."
+  },
+  {
+    "id": "A1_clean_0333",
+    "level": "A1",
+    "letter": "J",
+    "word": "jung",
+    "type": "word",
+    "sentence_de": "Claudia ist 21. – Was? Noch so jung?"
+  },
+  {
+    "id": "A1_clean_0334",
+    "level": "A1",
+    "letter": "J",
+    "word": "Junge",
+    "article": "der",
+    "type": "noun",
+    "plural": "-n",
+    "sentence_de": "Ich habe zwei Kinder. Einen Jungen und ein Mädchen."
+  },
+  {
+    "id": "A1_clean_0335",
+    "level": "A1",
+    "letter": "K",
+    "word": "Kaffee",
+    "article": "der",
+    "type": "noun",
+    "sentence_de": "Zum Frühstück trinke ich immer Kaffee."
+  },
+  {
+    "id": "A1_clean_0336",
+    "level": "A1",
+    "letter": "K",
+    "word": "kaputt",
+    "type": "word",
+    "sentence_de": "Das Glas war teuer. Es geht sehr leicht kaputt."
+  },
+  {
+    "id": "A1_clean_0337",
+    "level": "A1",
+    "letter": "K",
+    "word": "Karte",
+    "article": "die",
+    "type": "noun",
+    "plural": "-n",
+    "sentence_de": "Ich schreibe meinen Bekannten eine Karte aus dem Urlaub. Wollen wir Karten spielen? Ich möchte auch etwas essen. Bringen Sie mir die Karte, bitte. Kann ich auch mit Karte (be-) zahlen?"
+  },
+  {
+    "id": "A1_clean_0338",
+    "level": "A1",
+    "letter": "K",
+    "word": "Kartoffel",
+    "article": "die",
+    "type": "noun",
+    "plural": "-n",
+    "sentence_de": "Für Pommes frites braucht man Kartoffeln."
+  },
+  {
+    "id": "A1_clean_0339",
+    "level": "A1",
+    "letter": "K",
+    "word": "Kasse",
+    "article": "die",
+    "type": "noun",
+    "sentence_de": "Zahlen Sie bitte an der Kasse."
+  },
+  {
+    "id": "A1_clean_0340",
+    "level": "A1",
+    "letter": "K",
+    "word": "kaufen",
+    "type": "word",
+    "sentence_de": "Tim kauft sich ein neues Auto."
+  },
+  {
+    "id": "A1_clean_0341",
+    "level": "A1",
+    "letter": "K",
+    "word": "kein",
+    "type": "word",
+    "sentence_de": "Es gibt keine Eintrittskarten mehr."
+  },
+  {
+    "id": "A1_clean_0342",
+    "level": "A1",
+    "letter": "K",
+    "word": "kennen",
+    "type": "word",
+    "sentence_de": "Kennen Sie diese Frau? – Nein, leider nicht."
+  },
+  {
+    "id": "A1_clean_0343",
+    "level": "A1",
+    "letter": "K",
+    "word": "kennenlernen",
+    "type": "word",
+    "sentence_de": "Wir sind neu hier. Wir möchten Sie kennenlernen."
+  },
+  {
+    "id": "A1_clean_0344",
+    "level": "A1",
+    "letter": "K",
+    "word": "Kind",
+    "article": "das",
+    "type": "noun",
+    "plural": "-er",
+    "sentence_de": "Wie viele Kinder haben Sie?"
+  },
+  {
+    "id": "A1_clean_0345",
+    "level": "A1",
+    "letter": "K",
+    "word": "Kindergarten",
+    "article": "der",
+    "type": "noun",
+    "sentence_de": "Die kleine Laura geht schon in den Kindergarten."
+  },
+  {
+    "id": "A1_clean_0346",
+    "level": "A1",
+    "letter": "K",
+    "word": "Kino",
+    "article": "das",
+    "type": "noun",
+    "plural": "-s",
+    "sentence_de": "Wir sehen heute Abend im Kino einen schönen Film."
+  },
+  {
+    "id": "A1_clean_0347",
+    "level": "A1",
+    "letter": "K",
+    "word": "Kiosk",
+    "article": "der",
+    "type": "noun",
+    "sentence_de": "Am Kiosk bekommen Sie Getränke, Zigaretten und Zeitungen."
+  },
+  {
+    "id": "A1_clean_0348",
+    "level": "A1",
+    "letter": "K",
+    "word": "klar",
+    "type": "word",
+    "sentence_de": "Kommst du mit? – Klar!"
+  },
+  {
+    "id": "A1_clean_0349",
+    "level": "A1",
+    "letter": "K",
+    "word": "Klasse",
+    "article": "die",
+    "type": "noun",
+    "sentence_de": "In unserer Klasse sind fünfundzwanzig Schüler. Im Zug fahre ich immer 2. Klasse."
+  },
+  {
+    "id": "A1_clean_0350",
+    "level": "A1",
+    "letter": "K",
+    "word": "Kleidung",
+    "article": "die",
+    "type": "noun",
+    "sentence_de": "Wo finde ich Kleidung? – Jacken im ersten, Jeans im zweiten Stock."
+  },
+  {
+    "id": "A1_clean_0351",
+    "level": "A1",
+    "letter": "K",
+    "word": "klein",
+    "type": "word",
+    "sentence_de": "Eltville ist eine kleine Stadt am Rhein."
+  },
+  {
+    "id": "A1_clean_0352",
+    "level": "A1",
+    "letter": "K",
+    "word": "kochen",
+    "type": "word",
+    "sentence_de": "Herr Georgi kann gut kochen."
+  },
+  {
+    "id": "A1_clean_0353",
+    "level": "A1",
+    "letter": "K",
+    "word": "Koffer",
+    "article": "der",
+    "type": "noun",
+    "plural": "–",
+    "sentence_de": "Ist das Ihr Koffer?"
+  },
+  {
+    "id": "A1_clean_0354",
+    "level": "A1",
+    "letter": "K",
+    "word": "Kollege",
+    "article": "der",
+    "type": "noun",
+    "plural": "-n",
+    "sentence_de": "Wie heißt die neue Kollegin?"
+  },
+  {
+    "id": "A1_clean_0355",
+    "level": "A1",
+    "letter": "K",
+    "word": "kommen",
+    "type": "word",
+    "sentence_de": "Woher kommen Sie? – Aus Frankreich. Kommst du mit ins Schwimmbad?"
+  },
+  {
+    "id": "A1_clean_0356",
+    "level": "A1",
+    "letter": "K",
+    "word": "können",
+    "type": "word",
+    "sentence_de": "Ich kann Deutsch und Russisch. Können Sie mir helfen?"
+  },
+  {
+    "id": "A1_clean_0357",
+    "level": "A1",
+    "letter": "K",
+    "word": "Konto",
+    "article": "das",
+    "type": "noun",
+    "sentence_de": "Das Geld überweisen wir am ersten März auf Ihr Konto."
+  },
+  {
+    "id": "A1_clean_0358",
+    "level": "A1",
+    "letter": "K",
+    "word": "Kopf",
+    "article": "der",
+    "type": "noun",
+    "sentence_de": "Mein Kopf tut weh!"
+  },
+  {
+    "id": "A1_clean_0359",
+    "level": "A1",
+    "letter": "K",
+    "word": "kosten",
+    "type": "word",
+    "sentence_de": "Wie viel kostet das? – 10 Euro."
+  },
+  {
+    "id": "A1_clean_0360",
+    "level": "A1",
+    "letter": "K",
+    "word": "krank",
+    "type": "word",
+    "sentence_de": "Ich kann heute nicht zur Arbeit kommen, ich bin krank und liege im Bett."
+  },
+  {
+    "id": "A1_clean_0361",
+    "level": "A1",
+    "letter": "K",
+    "word": "kriegen",
+    "type": "word",
+    "sentence_de": "Ich kriege 15 Euro in der Stunde für meine Arbeit."
+  },
+  {
+    "id": "A1_clean_0362",
+    "level": "A1",
+    "letter": "K",
+    "word": "Kugelschreiber",
+    "article": "der",
+    "type": "noun",
+    "sentence_de": "Hast du einen Kugelschreiber für mich?"
+  },
+  {
+    "id": "A1_clean_0363",
+    "level": "A1",
+    "letter": "K",
+    "word": "Kühlschrank",
+    "article": "der",
+    "type": "noun",
+    "sentence_de": "Haben wir noch Milch? – Ja, im Kühlschrank."
+  },
+  {
+    "id": "A1_clean_0364",
+    "level": "A1",
+    "letter": "K",
+    "word": "kulturell",
+    "type": "word",
+    "sentence_de": "Ich bin kulturell interessiert. Ich gehe oft ins Museum."
+  },
+  {
+    "id": "A1_clean_0365",
+    "level": "A1",
+    "letter": "K",
+    "word": "Kunde",
+    "article": "der",
+    "type": "noun",
+    "plural": "-n",
+    "sentence_de": "Einen Moment, bitte. Ich habe eine Kundin."
+  },
+  {
+    "id": "A1_clean_0366",
+    "level": "A1",
+    "letter": "K",
+    "word": "Kurs",
+    "article": "der",
+    "type": "noun",
+    "plural": "-e",
+    "sentence_de": "Der Deutschkurs geht bis zum Sommer."
+  },
+  {
+    "id": "A1_clean_0367",
+    "level": "A1",
+    "letter": "K",
+    "word": "kurz",
+    "type": "word",
+    "sentence_de": "Ricardo hat kurzes Haar."
+  },
+  {
+    "id": "A1_clean_0368",
+    "level": "A1",
+    "letter": "L",
+    "word": "lachen",
+    "type": "word",
+    "sentence_de": "Die Kinder lachen viel."
+  },
+  {
+    "id": "A1_clean_0369",
+    "level": "A1",
+    "letter": "L",
+    "word": "Laden",
+    "article": "der",
+    "type": "noun",
+    "plural": "-ä",
+    "sentence_de": "Im Buchladen können Sie Bücher kaufen."
+  },
+  {
+    "id": "A1_clean_0370",
+    "level": "A1",
+    "letter": "L",
+    "word": "Land",
+    "article": "das",
+    "type": "noun",
+    "plural": "-ä, er",
+    "sentence_de": "Italien ist ein schönes Land."
+  },
+  {
+    "id": "A1_clean_0371",
+    "level": "A1",
+    "letter": "L",
+    "word": "lang",
+    "type": "word",
+    "sentence_de": "Die Jeans ist zu lang."
+  },
+  {
+    "id": "A1_clean_0372",
+    "level": "A1",
+    "letter": "L",
+    "word": "lange",
+    "type": "word",
+    "sentence_de": "Wie lange fährt der Zug von Hamburg nach Berlin?"
+  },
+  {
+    "id": "A1_clean_0373",
+    "level": "A1",
+    "letter": "L",
+    "word": "Langenscheidt",
+    "type": "word",
+    "sentence_de": "2001. Kannbeschreibungen und kommu-"
+  },
+  {
+    "id": "A1_clean_0374",
+    "level": "A1",
+    "letter": "L",
+    "word": "langsam",
+    "type": "word",
+    "sentence_de": "Könnten Sie bitte etwas langsamer sprechen?"
+  },
+  {
+    "id": "A1_clean_0375",
+    "level": "A1",
+    "letter": "L",
+    "word": "laufen",
+    "type": "word",
+    "sentence_de": "Ich möchte nicht Auto fahren, ich möchte laufen."
+  },
+  {
+    "id": "A1_clean_0376",
+    "level": "A1",
+    "letter": "L",
+    "word": "laut",
+    "type": "word",
+    "sentence_de": "Nicht so laut! Das Baby schläft."
+  },
+  {
+    "id": "A1_clean_0377",
+    "level": "A1",
+    "letter": "L",
+    "word": "leben",
+    "type": "word",
+    "sentence_de": "Sie lebt bei ihrer Schwester. Ihre Eltern leben nicht mehr."
+  },
+  {
+    "id": "A1_clean_0378",
+    "level": "A1",
+    "letter": "L",
+    "word": "Leben",
+    "article": "das",
+    "type": "noun",
+    "sentence_de": "Das Leben in diesem Land ist teuer."
+  },
+  {
+    "id": "A1_clean_0379",
+    "level": "A1",
+    "letter": "L",
+    "word": "ledig",
+    "type": "word",
+    "sentence_de": "Sind Sie verheiratet? – Nein. Ledig."
+  },
+  {
+    "id": "A1_clean_0380",
+    "level": "A1",
+    "letter": "L",
+    "word": "legen",
+    "type": "word",
+    "sentence_de": "Legen Sie das Buch auf den Tisch."
+  },
+  {
+    "id": "A1_clean_0381",
+    "level": "A1",
+    "letter": "L",
+    "word": "Lehrer",
+    "article": "der",
+    "type": "noun",
+    "plural": "–",
+    "sentence_de": "Unsere Deutschlehrerin heißt Frau Müller."
+  },
+  {
+    "id": "A1_clean_0382",
+    "level": "A1",
+    "letter": "L",
+    "word": "leicht",
+    "type": "word",
+    "sentence_de": "Der Koffer ist leicht. Deutsch ist nicht leicht."
+  },
+  {
+    "id": "A1_clean_0383",
+    "level": "A1",
+    "letter": "L",
+    "word": "leider",
+    "type": "word",
+    "sentence_de": "Leider kann ich nicht kommen. Ich muss zum Arzt."
+  },
+  {
+    "id": "A1_clean_0384",
+    "level": "A1",
+    "letter": "L",
+    "word": "leise",
+    "type": "word",
+    "sentence_de": "Seid leise. Die anderen schlafen schon."
+  },
+  {
+    "id": "A1_clean_0385",
+    "level": "A1",
+    "letter": "L",
+    "word": "lernen",
+    "type": "word",
+    "sentence_de": "Wie lange lernen Sie schon Deutsch?"
+  },
+  {
+    "id": "A1_clean_0386",
+    "level": "A1",
+    "letter": "L",
+    "word": "lesen",
+    "type": "word",
+    "sentence_de": "Ich lese ein Buch von García Márquez."
+  },
+  {
+    "id": "A1_clean_0387",
+    "level": "A1",
+    "letter": "L",
+    "word": "letzt-",
+    "type": "word",
+    "sentence_de": "Morgen ist der letzte Kurstag."
+  },
+  {
+    "id": "A1_clean_0388",
+    "level": "A1",
+    "letter": "L",
+    "word": "Leute",
+    "article": "die",
+    "type": "noun",
+    "sentence_de": "In der Disko sind viele Leute."
+  },
+  {
+    "id": "A1_clean_0389",
+    "level": "A1",
+    "letter": "L",
+    "word": "Licht",
+    "article": "das",
+    "type": "noun",
+    "sentence_de": "Wo macht man hier das Licht an?"
+  },
+  {
+    "id": "A1_clean_0390",
+    "level": "A1",
+    "letter": "L",
+    "word": "lieb-",
+    "type": "word",
+    "sentence_de": "Liebe Susanne, lieber Hans,"
+  },
+  {
+    "id": "A1_clean_0391",
+    "level": "A1",
+    "letter": "L",
+    "word": "lieben",
+    "type": "word",
+    "sentence_de": "Ich liebe dich!"
+  },
+  {
+    "id": "A1_clean_0392",
+    "level": "A1",
+    "letter": "L",
+    "word": "lieber",
+    "type": "word",
+    "sentence_de": "Sie fährt lieber mit der Bahn."
+  },
+  {
+    "id": "A1_clean_0393",
+    "level": "A1",
+    "letter": "L",
+    "word": "Lieblings-",
+    "type": "word",
+    "sentence_de": "Mein Lieblingsfilm ist „Schwarze Augen“."
+  },
+  {
+    "id": "A1_clean_0394",
+    "level": "A1",
+    "letter": "L",
+    "word": "Lied",
+    "article": "das",
+    "type": "noun",
+    "plural": "-er",
+    "sentence_de": "Welches ist dein Lieblingslied?"
+  },
+  {
+    "id": "A1_clean_0395",
+    "level": "A1",
+    "letter": "L",
+    "word": "liegen",
+    "type": "word",
+    "sentence_de": "Um neun Uhr liegt Judith noch im Bett. Frankfurt liegt am Main."
+  },
+  {
+    "id": "A1_clean_0396",
+    "level": "A1",
+    "letter": "L",
+    "word": "links",
+    "type": "word",
+    "sentence_de": "Gehen Sie die nächste Straße links."
+  },
+  {
+    "id": "A1_clean_0397",
+    "level": "A1",
+    "letter": "L",
+    "word": "Lkw",
+    "article": "der",
+    "type": "noun",
+    "plural": "-s",
+    "sentence_de": "Dieser Lastkraftwagen ist sehr groß."
+  },
+  {
+    "id": "A1_clean_0398",
+    "level": "A1",
+    "letter": "L",
+    "word": "Lokal",
+    "article": "das",
+    "type": "noun",
+    "sentence_de": "In unserer Straße gibt es ein neues Lokal."
+  },
+  {
+    "id": "A1_clean_0399",
+    "level": "A1",
+    "letter": "L",
+    "word": "Lösung",
+    "article": "die",
+    "type": "noun",
+    "plural": "-en",
+    "sentence_de": "Die Lösung ist ganz einfach."
+  },
+  {
+    "id": "A1_clean_0400",
+    "level": "A1",
+    "letter": "L",
+    "word": "lustig",
+    "type": "word",
+    "sentence_de": "Frau Mertens ist lustig. Sie lacht immer."
+  },
+  {
+    "id": "A1_clean_0401",
+    "level": "A1",
+    "letter": "M",
+    "word": "Mädchen",
+    "article": "das",
+    "type": "noun",
+    "plural": "–",
+    "sentence_de": "Familie Kurz bekommt ein Baby. – Junge oder Mädchen?"
+  },
+  {
+    "id": "A1_clean_0402",
+    "level": "A1",
+    "letter": "M",
+    "word": "man",
+    "type": "word",
+    "sentence_de": "Hier darf man nicht rauchen."
+  },
+  {
+    "id": "A1_clean_0403",
+    "level": "A1",
+    "letter": "M",
+    "word": "Mann",
+    "article": "der",
+    "type": "noun",
+    "plural": "-ä, er",
+    "sentence_de": "Mein Mann arbeitet bei der Polizei."
+  },
+  {
+    "id": "A1_clean_0404",
+    "level": "A1",
+    "letter": "M",
+    "word": "männlich",
+    "type": "word",
+    "sentence_de": "Kreuzen Sie bitte an: „weiblich“ oder „männlich“."
+  },
+  {
+    "id": "A1_clean_0405",
+    "level": "A1",
+    "letter": "M",
+    "word": "Maschine",
+    "article": "die",
+    "type": "noun",
+    "plural": "-n",
+    "sentence_de": "Die Waschmaschine ist günstig."
+  },
+  {
+    "id": "A1_clean_0406",
+    "level": "A1",
+    "letter": "M",
+    "word": "Meer",
+    "article": "das",
+    "type": "noun",
+    "sentence_de": "Wir machen Urlaub am Meer."
+  },
+  {
+    "id": "A1_clean_0407",
+    "level": "A1",
+    "letter": "M",
+    "word": "mehr",
+    "type": "word",
+    "sentence_de": "Dieses Auto kostet 1.000 Euro mehr als das andere."
+  },
+  {
+    "id": "A1_clean_0408",
+    "level": "A1",
+    "letter": "M",
+    "word": "mein",
+    "type": "word",
+    "sentence_de": "Mein Vater ist Arzt."
+  },
+  {
+    "id": "A1_clean_0409",
+    "level": "A1",
+    "letter": "M",
+    "word": "meist-",
+    "type": "word",
+    "sentence_de": "Die meisten Norddeutschen sind sehr groß."
+  },
+  {
+    "id": "A1_clean_0410",
+    "level": "A1",
+    "letter": "M",
+    "word": "Mensch",
+    "article": "der",
+    "type": "noun",
+    "plural": "-en",
+    "sentence_de": "Die Menschen sind hier anders als bei uns."
+  },
+  {
+    "id": "A1_clean_0411",
+    "level": "A1",
+    "letter": "M",
+    "word": "Miete",
+    "article": "die",
+    "type": "noun",
+    "sentence_de": "Die Miete für diese Wohnung ist 600 Euro."
+  },
+  {
+    "id": "A1_clean_0412",
+    "level": "A1",
+    "letter": "M",
+    "word": "mieten",
+    "type": "word",
+    "sentence_de": "Ich möchte ein Auto mieten."
+  },
+  {
+    "id": "A1_clean_0413",
+    "level": "A1",
+    "letter": "M",
+    "word": "Milch",
+    "article": "die",
+    "type": "noun",
+    "sentence_de": "Die Milch steht im Kühlschrank."
+  },
+  {
+    "id": "A1_clean_0414",
+    "level": "A1",
+    "letter": "M",
+    "word": "mit",
+    "type": "word",
+    "sentence_de": "Trinken Sie den Kaffee mit Milch?"
+  },
+  {
+    "id": "A1_clean_0415",
+    "level": "A1",
+    "letter": "M",
+    "word": "mitbringen",
+    "type": "word",
+    "sentence_de": "Ich gehe einkaufen. Soll ich dir was mitbringen?"
+  },
+  {
+    "id": "A1_clean_0416",
+    "level": "A1",
+    "letter": "M",
+    "word": "mitkommen",
+    "type": "word",
+    "sentence_de": "Ich gehe ins Kino. Kommst du mit?"
+  },
+  {
+    "id": "A1_clean_0417",
+    "level": "A1",
+    "letter": "M",
+    "word": "mitmachen",
+    "type": "word",
+    "sentence_de": "Warum macht ihr nicht mit?"
+  },
+  {
+    "id": "A1_clean_0418",
+    "level": "A1",
+    "letter": "M",
+    "word": "mitnehmen",
+    "type": "word",
+    "sentence_de": "Nehmen wir meine Schwester ins Kino mit?"
+  },
+  {
+    "id": "A1_clean_0419",
+    "level": "A1",
+    "letter": "M",
+    "word": "Mitte",
+    "article": "die",
+    "type": "noun",
+    "sentence_de": "Der Lehrer steht in der Mitte des Klassenzimmers."
+  },
+  {
+    "id": "A1_clean_0420",
+    "level": "A1",
+    "letter": "M",
+    "word": "mittel",
+    "type": "word",
+    "sentence_de": "Lebensmittel bekommen Sie im Supermarkt."
+  },
+  {
+    "id": "A1_clean_0421",
+    "level": "A1",
+    "letter": "M",
+    "word": "Möbel",
+    "article": "die",
+    "type": "noun",
+    "sentence_de": "Sind die Möbel neu?"
+  },
+  {
+    "id": "A1_clean_0422",
+    "level": "A1",
+    "letter": "M",
+    "word": "möchten",
+    "type": "word",
+    "sentence_de": "Was möchten Sie trinken?"
+  },
+  {
+    "id": "A1_clean_0423",
+    "level": "A1",
+    "letter": "M",
+    "word": "modern language learning",
+    "type": "phrase",
+    "sentence_de": "by adults, Hg. J.A. van Ek, L.G. Alexander in associ-"
+  },
+  {
+    "id": "A1_clean_0424",
+    "level": "A1",
+    "letter": "M",
+    "word": "mögen",
+    "type": "word",
+    "sentence_de": "Magst du Kaffee oder Tee?"
+  },
+  {
+    "id": "A1_clean_0425",
+    "level": "A1",
+    "letter": "M",
+    "word": "möglich",
+    "type": "word",
+    "sentence_de": "Mit dieser Fahrkarte ist die Fahrt ab 9 Uhr möglich."
+  },
+  {
+    "id": "A1_clean_0426",
+    "level": "A1",
+    "letter": "M",
+    "word": "Moment",
+    "article": "der",
+    "type": "noun",
+    "sentence_de": "Moment mal bitte! Einen Moment bitte."
+  },
+  {
+    "id": "A1_clean_0427",
+    "level": "A1",
+    "letter": "M",
+    "word": "morgen",
+    "type": "word",
+    "sentence_de": "Morgen beginnt die Schule um 10 Uhr."
+  },
+  {
+    "id": "A1_clean_0428",
+    "level": "A1",
+    "letter": "M",
+    "word": "müde",
+    "type": "word",
+    "sentence_de": "Ich bin müde. Ich gehe schlafen."
+  },
+  {
+    "id": "A1_clean_0429",
+    "level": "A1",
+    "letter": "M",
+    "word": "Mund",
+    "article": "der",
+    "type": "noun",
+    "sentence_de": "Öffnen Sie den Mund."
+  },
+  {
+    "id": "A1_clean_0430",
+    "level": "A1",
+    "letter": "M",
+    "word": "müssen",
+    "type": "word",
+    "sentence_de": "Ich muss jeden Tag von 8 Uhr bis 18 Uhr arbeiten."
+  },
+  {
+    "id": "A1_clean_0431",
+    "level": "A1",
+    "letter": "M",
+    "word": "Mutter",
+    "article": "die",
+    "type": "noun",
+    "plural": "-ü",
+    "sentence_de": "Frau Berghäuser ist die Mutter von Michaela."
+  },
+  {
+    "id": "A1_clean_0432",
+    "level": "A1",
+    "letter": "N",
+    "word": "nach",
+    "type": "word",
+    "sentence_de": "Ich gehe jetzt nach Hause. Ich fliege nach München. Es ist schon 5 nach 12."
+  },
+  {
+    "id": "A1_clean_0433",
+    "level": "A1",
+    "letter": "N",
+    "word": "nächst-",
+    "type": "word",
+    "sentence_de": "Sehen wir uns nächste Woche?"
+  },
+  {
+    "id": "A1_clean_0434",
+    "level": "A1",
+    "letter": "N",
+    "word": "Name",
+    "article": "der",
+    "type": "noun",
+    "plural": "-n",
+    "sentence_de": "Mein Name ist Thomas Schmidt. Mein Vorname ist Thomas; Schmidt ist der Familienname."
+  },
+  {
+    "id": "A1_clean_0435",
+    "level": "A1",
+    "letter": "N",
+    "word": "nehmen",
+    "type": "word",
+    "sentence_de": "Heute gibt es Hähnchen. Das nehme ich. Ich nehme den Bus."
+  },
+  {
+    "id": "A1_clean_0436",
+    "level": "A1",
+    "letter": "N",
+    "word": "nein",
+    "type": "word",
+    "sentence_de": "Fährst du auch nach München? – Nein, ich habe keine Zeit."
+  },
+  {
+    "id": "A1_clean_0437",
+    "level": "A1",
+    "letter": "N",
+    "word": "neu",
+    "type": "word",
+    "sentence_de": "Ich bin der neue Kollege. Wir haben eine neue Wohnung."
+  },
+  {
+    "id": "A1_clean_0438",
+    "level": "A1",
+    "letter": "N",
+    "word": "nicht",
+    "type": "word",
+    "sentence_de": "Das stimmt nicht. Das ist doch schön, nicht?"
+  },
+  {
+    "id": "A1_clean_0439",
+    "level": "A1",
+    "letter": "N",
+    "word": "nichts",
+    "type": "word",
+    "sentence_de": "Das macht nichts."
+  },
+  {
+    "id": "A1_clean_0440",
+    "level": "A1",
+    "letter": "N",
+    "word": "noch",
+    "type": "word",
+    "sentence_de": "Vielleicht kommt er noch. Wir warten noch fünf Minuten. Ich habe noch 20 Euro."
+  },
+  {
+    "id": "A1_clean_0441",
+    "level": "A1",
+    "letter": "N",
+    "word": "normal",
+    "type": "word",
+    "sentence_de": "75 kg. Sein Gewicht ist normal."
+  },
+  {
+    "id": "A1_clean_0442",
+    "level": "A1",
+    "letter": "N",
+    "word": "Nummer",
+    "article": "die",
+    "type": "noun",
+    "plural": "-n",
+    "sentence_de": "Sie haben Zimmer Nummer zwölf. Welche Hausnummer haben Sie? Können Sie mir Ihre Nummer geben?"
+  },
+  {
+    "id": "A1_clean_0443",
+    "level": "A1",
+    "letter": "N",
+    "word": "nur",
+    "type": "word",
+    "sentence_de": "Ich möchte nur ein Glas Wasser."
+  },
+  {
+    "id": "A1_clean_0444",
+    "level": "A1",
+    "letter": "O",
+    "word": "oben",
+    "type": "word",
+    "sentence_de": "Ich wohne oben."
+  },
+  {
+    "id": "A1_clean_0445",
+    "level": "A1",
+    "letter": "O",
+    "word": "Obst",
+    "article": "das",
+    "type": "noun",
+    "sentence_de": "Im Sommer ist das Obst billig."
+  },
+  {
+    "id": "A1_clean_0446",
+    "level": "A1",
+    "letter": "O",
+    "word": "oder",
+    "type": "word",
+    "sentence_de": "Wann können Sie kommen – heute oder morgen?"
+  },
+  {
+    "id": "A1_clean_0447",
+    "level": "A1",
+    "letter": "Ö",
+    "word": "öffnen",
+    "type": "word",
+    "sentence_de": "Ich öffne die Tür."
+  },
+  {
+    "id": "A1_clean_0448",
+    "level": "A1",
+    "letter": "O",
+    "word": "oft",
+    "type": "word",
+    "sentence_de": "Petra treffe ich oft."
+  },
+  {
+    "id": "A1_clean_0449",
+    "level": "A1",
+    "letter": "O",
+    "word": "ohne",
+    "type": "word",
+    "sentence_de": "Ohne Geld kann er nichts kaufen."
+  },
+  {
+    "id": "A1_clean_0450",
+    "level": "A1",
+    "letter": "Ö",
+    "word": "Öl",
+    "article": "das",
+    "type": "noun",
+    "sentence_de": "Den Salat machen wir ohne Öl."
+  },
+  {
+    "id": "A1_clean_0451",
+    "level": "A1",
+    "letter": "O",
+    "word": "Oma",
+    "article": "die",
+    "type": "noun",
+    "plural": "-s",
+    "sentence_de": "Meine Oma ist schon tot."
+  },
+  {
+    "id": "A1_clean_0452",
+    "level": "A1",
+    "letter": "O",
+    "word": "Opa",
+    "article": "der",
+    "type": "noun",
+    "plural": "-s",
+    "sentence_de": "Mein Opa heißt Hans."
+  },
+  {
+    "id": "A1_clean_0453",
+    "level": "A1",
+    "letter": "O",
+    "word": "Ordnung",
+    "article": "die",
+    "type": "noun",
+    "sentence_de": "Das ist in Ordnung."
+  },
+  {
+    "id": "A1_clean_0454",
+    "level": "A1",
+    "letter": "O",
+    "word": "Ort",
+    "article": "der",
+    "type": "noun",
+    "plural": "-e",
+    "sentence_de": "Der Ort liegt am Meer."
+  },
+  {
+    "id": "A1_clean_0455",
+    "level": "A1",
+    "letter": "P",
+    "word": "Papier",
+    "article": "das",
+    "type": "noun",
+    "sentence_de": "Hier sind Papier und Bleistift."
+  },
+  {
+    "id": "A1_clean_0456",
+    "level": "A1",
+    "letter": "P",
+    "word": "Papiere",
+    "article": "die",
+    "type": "noun",
+    "sentence_de": "Haben Sie Ihre Papiere dabei?"
+  },
+  {
+    "id": "A1_clean_0457",
+    "level": "A1",
+    "letter": "P",
+    "word": "Partner",
+    "article": "der",
+    "type": "noun",
+    "plural": "-/"
+  },
+  {
+    "id": "A1_clean_0458",
+    "level": "A1",
+    "letter": "P",
+    "word": "Partnerin",
+    "article": "die",
+    "type": "noun",
+    "plural": "-nen",
+    "sentence_de": "Sie ist meine Partnerin."
+  },
+  {
+    "id": "A1_clean_0459",
+    "level": "A1",
+    "letter": "P",
+    "word": "Party",
+    "article": "die",
+    "type": "noun",
+    "sentence_de": "Heute Abend machen wir eine Party."
+  },
+  {
+    "id": "A1_clean_0460",
+    "level": "A1",
+    "letter": "P",
+    "word": "Pass",
+    "article": "der",
+    "type": "noun",
+    "plural": "-ä, e",
+    "sentence_de": "Im Hotel brauchst du deinen Pass."
+  },
+  {
+    "id": "A1_clean_0461",
+    "level": "A1",
+    "letter": "P",
+    "word": "Pause",
+    "article": "die",
+    "type": "noun",
+    "plural": "-n",
+    "sentence_de": "Von 12.00 bis 12.30 Uhr haben wir Mittagspause."
+  },
+  {
+    "id": "A1_clean_0462",
+    "level": "A1",
+    "letter": "P",
+    "word": "Plan",
+    "article": "der",
+    "type": "noun",
+    "plural": "-ä, e",
+    "sentence_de": "Ich kaufe mir einen Stadtplan."
+  },
+  {
+    "id": "A1_clean_0463",
+    "level": "A1",
+    "letter": "P",
+    "word": "Platz",
+    "article": "der",
+    "type": "noun",
+    "plural": "-ä, e",
+    "sentence_de": "Tut mir leid, der Platz ist besetzt. Bitte nehmen Sie Platz! Ich wohne Messeplatz 5."
+  },
+  {
+    "id": "A1_clean_0464",
+    "level": "A1",
+    "letter": "P",
+    "word": "Polizei",
+    "article": "die",
+    "type": "noun",
+    "sentence_de": "Holen Sie die Polizei!"
+  },
+  {
+    "id": "A1_clean_0465",
+    "level": "A1",
+    "letter": "P",
+    "word": "Pommes frites",
+    "article": "die",
+    "type": "noun",
+    "sentence_de": "Die Kinder essen Hähnchen mit Pommes frites."
+  },
+  {
+    "id": "A1_clean_0466",
+    "level": "A1",
+    "letter": "P",
+    "word": "Post",
+    "article": "die",
+    "type": "noun",
+    "sentence_de": "Wo ist die Post, bitte? Ist Post da?"
+  },
+  {
+    "id": "A1_clean_0467",
+    "level": "A1",
+    "letter": "P",
+    "word": "Postleitzahl",
+    "article": "die",
+    "type": "noun",
+    "sentence_de": "Wie ist Ihre Postleitzahl?"
+  },
+  {
+    "id": "A1_clean_0468",
+    "level": "A1",
+    "letter": "P",
+    "word": "Praktikum",
+    "article": "das",
+    "type": "noun",
+    "sentence_de": "Ich mache ein Praktikum bei Siemens."
+  },
+  {
+    "id": "A1_clean_0469",
+    "level": "A1",
+    "letter": "P",
+    "word": "Praxis",
+    "article": "die",
+    "type": "noun",
+    "sentence_de": "Die Praxis ist ab acht Uhr geöffnet."
+  },
+  {
+    "id": "A1_clean_0470",
+    "level": "A1",
+    "letter": "P",
+    "word": "Preis",
+    "article": "der",
+    "type": "noun",
+    "plural": "-e",
+    "sentence_de": "Die Preise sind hoch."
+  },
+  {
+    "id": "A1_clean_0471",
+    "level": "A1",
+    "letter": "P",
+    "word": "Problem",
+    "article": "das",
+    "type": "noun",
+    "plural": "-e",
+    "sentence_de": "Mein Problem ist die Sprache."
+  },
+  {
+    "id": "A1_clean_0472",
+    "level": "A1",
+    "letter": "P",
+    "word": "Prospekt",
+    "article": "der",
+    "type": "noun",
+    "plural": "-e",
+    "sentence_de": "Bitte schicken Sie mir einen Prospekt von Ihrem Hotel."
+  },
+  {
+    "id": "A1_clean_0473",
+    "level": "A1",
+    "letter": "P",
+    "word": "Prüfung",
+    "article": "die",
+    "type": "noun",
+    "sentence_de": "Die Prüfung ist am Montag um 8.00 Uhr."
+  },
+  {
+    "id": "A1_clean_0474",
+    "level": "A1",
+    "letter": "P",
+    "word": "pünktlich",
+    "type": "word",
+    "sentence_de": "Der Bus fährt pünktlich um acht Uhr. Herr Müller ist immer pünktlich."
+  },
+  {
+    "id": "A1_clean_0475",
+    "level": "A1",
+    "letter": "R",
+    "word": "Rad fahren",
+    "type": "phrase",
+    "sentence_de": "Das Kind kann schon Rad fahren."
+  },
+  {
+    "id": "A1_clean_0476",
+    "level": "A1",
+    "letter": "R",
+    "word": "rauchen",
+    "type": "word",
+    "sentence_de": "Ich rauche nicht."
+  },
+  {
+    "id": "A1_clean_0477",
+    "level": "A1",
+    "letter": "R",
+    "word": "Raum",
+    "article": "der",
+    "type": "noun",
+    "plural": "-ä, e",
+    "sentence_de": "Der Unterricht ist in Raum 332."
+  },
+  {
+    "id": "A1_clean_0478",
+    "level": "A1",
+    "letter": "R",
+    "word": "Rechnung",
+    "article": "die",
+    "type": "noun",
+    "plural": "-en",
+    "sentence_de": "Die Rechnung, bitte."
+  },
+  {
+    "id": "A1_clean_0479",
+    "level": "A1",
+    "letter": "R",
+    "word": "rechts",
+    "type": "word",
+    "sentence_de": "Die Schillerstraße ist hier rechts."
+  },
+  {
+    "id": "A1_clean_0480",
+    "level": "A1",
+    "letter": "R",
+    "word": "Regen",
+    "article": "der",
+    "type": "noun",
+    "sentence_de": "Bei diesem Regen gehe ich nicht raus."
+  },
+  {
+    "id": "A1_clean_0481",
+    "level": "A1",
+    "letter": "R",
+    "word": "regnen",
+    "type": "word",
+    "sentence_de": "Heute regnet es."
+  },
+  {
+    "id": "A1_clean_0482",
+    "level": "A1",
+    "letter": "R",
+    "word": "Reis",
+    "article": "der",
+    "type": "noun",
+    "sentence_de": "Ich esse gern Reis."
+  },
+  {
+    "id": "A1_clean_0483",
+    "level": "A1",
+    "letter": "R",
+    "word": "Reise",
+    "article": "die",
+    "type": "noun",
+    "sentence_de": "Wir machen eine Reise nach Österreich."
+  },
+  {
+    "id": "A1_clean_0484",
+    "level": "A1",
+    "letter": "R",
+    "word": "Reisebüro",
+    "article": "das",
+    "type": "noun",
+    "plural": "-s",
+    "sentence_de": "Mein Mann arbeitet im Reisebüro."
+  },
+  {
+    "id": "A1_clean_0485",
+    "level": "A1",
+    "letter": "R",
+    "word": "Reiseführer",
+    "article": "der",
+    "type": "noun",
+    "sentence_de": "Ich kaufe mir einen Reiseführer von Berlin. Unser Reiseführer heißt Peter."
+  },
+  {
+    "id": "A1_clean_0486",
+    "level": "A1",
+    "letter": "R",
+    "word": "reisen",
+    "type": "word",
+    "sentence_de": "Ich reise gern."
+  },
+  {
+    "id": "A1_clean_0487",
+    "level": "A1",
+    "letter": "R",
+    "word": "Reparatur",
+    "article": "die",
+    "type": "noun",
+    "sentence_de": "Die Reparatur ist sehr teuer."
+  },
+  {
+    "id": "A1_clean_0488",
+    "level": "A1",
+    "letter": "R",
+    "word": "reparieren",
+    "type": "word",
+    "sentence_de": "Er hat das Fahrrad repariert."
+  },
+  {
+    "id": "A1_clean_0489",
+    "level": "A1",
+    "letter": "R",
+    "word": "Restaurant",
+    "article": "das",
+    "type": "noun",
+    "plural": "-s",
+    "sentence_de": "Wir essen heute in einem Restaurant."
+  },
+  {
+    "id": "A1_clean_0490",
+    "level": "A1",
+    "letter": "R",
+    "word": "Rezeption",
+    "article": "die",
+    "type": "noun",
+    "sentence_de": "Fragen Sie bitte im Hotel an der Rezeption."
+  },
+  {
+    "id": "A1_clean_0491",
+    "level": "A1",
+    "letter": "R",
+    "word": "richtig",
+    "type": "word",
+    "sentence_de": "Habe ich das richtig verstanden? Das ist richtig."
+  },
+  {
+    "id": "A1_clean_0492",
+    "level": "A1",
+    "letter": "R",
+    "word": "riechen",
+    "type": "word",
+    "sentence_de": "Dieser Wein riecht gut."
+  },
+  {
+    "id": "A1_clean_0493",
+    "level": "A1",
+    "letter": "R",
+    "word": "ruhig",
+    "type": "word",
+    "sentence_de": "Ich möchte ein ruhiges Zimmer."
+  },
+  {
+    "id": "A1_clean_0494",
+    "level": "A1",
+    "letter": "S",
+    "word": "S-Bahn",
+    "article": "die",
+    "type": "noun",
+    "sentence_de": "Ich nehme lieber die S-Bahn."
+  },
+  {
+    "id": "A1_clean_0495",
+    "level": "A1",
+    "letter": "S",
+    "word": "Saft",
+    "article": "der",
+    "type": "noun",
+    "sentence_de": "Möchtest du einen Apfelsaft?"
+  },
+  {
+    "id": "A1_clean_0496",
+    "level": "A1",
+    "letter": "S",
+    "word": "sagen",
+    "type": "word",
+    "sentence_de": "Sag mal, wie geht es dir denn?"
+  },
+  {
+    "id": "A1_clean_0497",
+    "level": "A1",
+    "letter": "S",
+    "word": "Salat",
+    "article": "der",
+    "type": "noun",
+    "sentence_de": "Wie schmeckt dir der Salat?"
+  },
+  {
+    "id": "A1_clean_0498",
+    "level": "A1",
+    "letter": "S",
+    "word": "Salz",
+    "article": "das",
+    "type": "noun",
+    "sentence_de": "Herr Ober, kann ich bitte Salz haben? Dieser Satz ist sehr einfach."
+  },
+  {
+    "id": "A1_clean_0499",
+    "level": "A1",
+    "letter": "S",
+    "word": "Schalter",
+    "article": "der",
+    "type": "noun",
+    "sentence_de": "Gehen Sie bitte zum Schalter drei!"
+  },
+  {
+    "id": "A1_clean_0500",
+    "level": "A1",
+    "letter": "S",
+    "word": "scheidt",
+    "type": "word",
+    "sentence_de": "2002."
+  },
+  {
+    "id": "A1_clean_0501",
+    "level": "A1",
+    "letter": "S",
+    "word": "scheinen",
+    "type": "word",
+    "sentence_de": "Die Sonne scheint."
+  },
+  {
+    "id": "A1_clean_0502",
+    "level": "A1",
+    "letter": "S",
+    "word": "schicken",
+    "type": "word",
+    "sentence_de": "Bitte schicken Sie mir eine E-Mail."
+  },
+  {
+    "id": "A1_clean_0503",
+    "level": "A1",
+    "letter": "S",
+    "word": "Schild",
+    "article": "das",
+    "type": "noun",
+    "plural": "-er",
+    "sentence_de": "Haben Sie nicht das Schild gesehen?"
+  },
+  {
+    "id": "A1_clean_0504",
+    "level": "A1",
+    "letter": "S",
+    "word": "Schinken",
+    "article": "der",
+    "type": "noun",
+    "plural": "–",
+    "sentence_de": "Ich möchte gern ein Schinkenbrot."
+  },
+  {
+    "id": "A1_clean_0505",
+    "level": "A1",
+    "letter": "S",
+    "word": "schlafen",
+    "type": "word",
+    "sentence_de": "Ich schlafe meistens acht Stunden."
+  },
+  {
+    "id": "A1_clean_0506",
+    "level": "A1",
+    "letter": "S",
+    "word": "schlecht",
+    "type": "word",
+    "sentence_de": "Mir ist schlecht! Sie sehen schlecht aus. Wir haben schlechtes Wetter."
+  },
+  {
+    "id": "A1_clean_0507",
+    "level": "A1",
+    "letter": "S",
+    "word": "schließen",
+    "type": "word",
+    "sentence_de": "Bitte, schließen Sie die Tür."
+  },
+  {
+    "id": "A1_clean_0508",
+    "level": "A1",
+    "letter": "S",
+    "word": "Schluss",
+    "article": "der",
+    "type": "noun",
+    "sentence_de": "Ich muss jetzt Schluss machen. Zum Schluss gibt er uns allen die Hand."
+  },
+  {
+    "id": "A1_clean_0509",
+    "level": "A1",
+    "letter": "S",
+    "word": "Schlüssel",
+    "article": "der",
+    "type": "noun",
+    "plural": "–",
+    "sentence_de": "Ich gebe Ihnen noch den Zimmerschlüssel."
+  },
+  {
+    "id": "A1_clean_0510",
+    "level": "A1",
+    "letter": "S",
+    "word": "schmecken",
+    "type": "word",
+    "sentence_de": "Schmeckt das gut?"
+  },
+  {
+    "id": "A1_clean_0511",
+    "level": "A1",
+    "letter": "S",
+    "word": "schnell",
+    "type": "word",
+    "sentence_de": "Er fährt schnell."
+  },
+  {
+    "id": "A1_clean_0512",
+    "level": "A1",
+    "letter": "S",
+    "word": "schon",
+    "type": "word",
+    "sentence_de": "Ist das Essen schon fertig?"
+  },
+  {
+    "id": "A1_clean_0513",
+    "level": "A1",
+    "letter": "S",
+    "word": "schön",
+    "type": "word",
+    "sentence_de": "Schönen Urlaub! Das ist sehr schön."
+  },
+  {
+    "id": "A1_clean_0514",
+    "level": "A1",
+    "letter": "S",
+    "word": "Schuh",
+    "article": "der",
+    "type": "noun",
+    "plural": "-e",
+    "sentence_de": "Zieh die Schuhe aus!"
+  },
+  {
+    "id": "A1_clean_0515",
+    "level": "A1",
+    "letter": "S",
+    "word": "Schule",
+    "article": "die",
+    "type": "noun",
+    "sentence_de": "Meine Tochter geht schon in die Schule. Die Schule ist gleich hier um die Ecke."
+  },
+  {
+    "id": "A1_clean_0516",
+    "level": "A1",
+    "letter": "S",
+    "word": "Schüler",
+    "article": "der",
+    "type": "noun",
+    "plural": "–",
+    "sentence_de": "In meinem Kurs sind acht Schülerinnen und fünf Schüler."
+  },
+  {
+    "id": "A1_clean_0517",
+    "level": "A1",
+    "letter": "S",
+    "word": "schwer",
+    "type": "word",
+    "sentence_de": "Ist Ihr Gepäck sehr schwer? Das ist eine schwere Arbeit."
+  },
+  {
+    "id": "A1_clean_0518",
+    "level": "A1",
+    "letter": "S",
+    "word": "Schwester",
+    "article": "die",
+    "type": "noun",
+    "plural": "-n",
+    "sentence_de": "Meine Schwester kommt am Dienstag."
+  },
+  {
+    "id": "A1_clean_0519",
+    "level": "A1",
+    "letter": "S",
+    "word": "Schwimmbad",
+    "article": "das",
+    "type": "noun",
+    "sentence_de": "Kommst du mit ins Schwimmbad?"
+  },
+  {
+    "id": "A1_clean_0520",
+    "level": "A1",
+    "letter": "S",
+    "word": "schwimmen",
+    "type": "word",
+    "sentence_de": "Ich schwimme jeden Tag einen Kilometer."
+  },
+  {
+    "id": "A1_clean_0521",
+    "level": "A1",
+    "letter": "S",
+    "word": "See",
+    "article": "der",
+    "type": "noun",
+    "sentence_de": "Komm, wir fahren zum Starnberger See."
+  },
+  {
+    "id": "A1_clean_0522",
+    "level": "A1",
+    "letter": "S",
+    "word": "sehen",
+    "type": "word",
+    "sentence_de": "Ich kann dich nicht sehen. Ich habe diesen Jungen schon einmal gesehen."
+  },
+  {
+    "id": "A1_clean_0523",
+    "level": "A1",
+    "letter": "S",
+    "word": "Sehenswürdigkeit",
+    "article": "die",
+    "type": "noun",
+    "plural": "-en",
+    "sentence_de": "Welche Sehenswürdigkeiten gibt es in Frankfurt?"
+  },
+  {
+    "id": "A1_clean_0524",
+    "level": "A1",
+    "letter": "S",
+    "word": "sehr",
+    "type": "word",
+    "sentence_de": "Danke sehr! Das ist sehr schwer."
+  },
+  {
+    "id": "A1_clean_0525",
+    "level": "A1",
+    "letter": "S",
+    "word": "sein",
+    "type": "word",
+    "sentence_de": "Herr Müller ist in seinem Zimmer. Mir ist kalt. Ich bin dreiundzwanzig."
+  },
+  {
+    "id": "A1_clean_0526",
+    "level": "A1",
+    "letter": "S",
+    "word": "seit",
+    "type": "word",
+    "sentence_de": "Ich wohne seit drei Jahren in Köln."
+  },
+  {
+    "id": "A1_clean_0527",
+    "level": "A1",
+    "letter": "S",
+    "word": "selbstständig",
+    "type": "word",
+    "sentence_de": "Er ist selbstständig."
+  },
+  {
+    "id": "A1_clean_0528",
+    "level": "A1",
+    "letter": "S",
+    "word": "sich",
+    "type": "word",
+    "sentence_de": "Sie müssen sich erst anmelden."
+  },
+  {
+    "id": "A1_clean_0529",
+    "level": "A1",
+    "letter": "S",
+    "word": "sich kümmern",
+    "type": "phrase",
+    "sentence_de": "Jede Mutter kümmert sich um ihre kleinen Kinder."
+  },
+  {
+    "id": "A1_clean_0530",
+    "level": "A1",
+    "letter": "S",
+    "word": "sie",
+    "type": "word",
+    "sentence_de": "Wie heißt sie?"
+  },
+  {
+    "id": "A1_clean_0531",
+    "level": "A1",
+    "letter": "S",
+    "word": "Sie",
+    "type": "word",
+    "sentence_de": "Wie heißen Sie, bitte?"
+  },
+  {
+    "id": "A1_clean_0532",
+    "level": "A1",
+    "letter": "S",
+    "word": "sitzen",
+    "type": "word",
+    "sentence_de": "Wo sitzen Sie?"
+  },
+  {
+    "id": "A1_clean_0533",
+    "level": "A1",
+    "letter": "S",
+    "word": "so",
+    "type": "word",
+    "sentence_de": "Sie müssen das so machen! Fahren Sie bitte nicht so schnell! Meine Frau ist so groß wie ich. So, das war's/wär's!"
+  },
+  {
+    "id": "A1_clean_0534",
+    "level": "A1",
+    "letter": "S",
+    "word": "Sofa",
+    "article": "das",
+    "type": "noun",
+    "sentence_de": "Das Sofa ist neu."
+  },
+  {
+    "id": "A1_clean_0535",
+    "level": "A1",
+    "letter": "S",
+    "word": "sofort",
+    "type": "word",
+    "sentence_de": "Bitte antworten Sie sofort."
+  },
+  {
+    "id": "A1_clean_0536",
+    "level": "A1",
+    "letter": "S",
+    "word": "Sohn",
+    "article": "der",
+    "type": "noun",
+    "plural": "-ö, e",
+    "sentence_de": "Das ist Hans, mein Sohn."
+  },
+  {
+    "id": "A1_clean_0537",
+    "level": "A1",
+    "letter": "S",
+    "word": "sollen",
+    "type": "word",
+    "sentence_de": "Soll ich kommen? Was soll ich mitbringen?"
+  },
+  {
+    "id": "A1_clean_0538",
+    "level": "A1",
+    "letter": "S",
+    "word": "Sonne",
+    "article": "die",
+    "type": "noun",
+    "sentence_de": "Die Sonne scheint."
+  },
+  {
+    "id": "A1_clean_0539",
+    "level": "A1",
+    "letter": "S",
+    "word": "spät",
+    "type": "word",
+    "sentence_de": "Es ist schon spät, ich muss gehen."
+  },
+  {
+    "id": "A1_clean_0540",
+    "level": "A1",
+    "letter": "S",
+    "word": "später",
+    "type": "word",
+    "sentence_de": "Das können wir später machen."
+  },
+  {
+    "id": "A1_clean_0541",
+    "level": "A1",
+    "letter": "S",
+    "word": "Speisekarte",
+    "article": "die",
+    "type": "noun",
+    "sentence_de": "Bringen Sie mir die Speisekarte, bitte."
+  },
+  {
+    "id": "A1_clean_0542",
+    "level": "A1",
+    "letter": "S",
+    "word": "spielen",
+    "type": "word",
+    "sentence_de": "Die Kinder spielen draußen. Spielen Sie Karten?"
+  },
+  {
+    "id": "A1_clean_0543",
+    "level": "A1",
+    "letter": "S",
+    "word": "Sport",
+    "article": "der",
+    "type": "noun",
+    "sentence_de": "Ich mache viel Sport."
+  },
+  {
+    "id": "A1_clean_0544",
+    "level": "A1",
+    "letter": "S",
+    "word": "Sprache",
+    "article": "die",
+    "type": "noun",
+    "plural": "-n",
+    "sentence_de": "Welche Sprachen sprichst du?"
+  },
+  {
+    "id": "A1_clean_0545",
+    "level": "A1",
+    "letter": "S",
+    "word": "sprechen",
+    "type": "word",
+    "sentence_de": "Kann ich (mit) Herrn Klein sprechen?"
+  },
+  {
+    "id": "A1_clean_0546",
+    "level": "A1",
+    "letter": "S",
+    "word": "Stadt",
+    "article": "die",
+    "type": "noun",
+    "plural": "-ä, e",
+    "sentence_de": "Heidelberg ist eine alte Stadt."
+  },
+  {
+    "id": "A1_clean_0547",
+    "level": "A1",
+    "letter": "S",
+    "word": "stehen",
+    "type": "word",
+    "sentence_de": "Ich glaube es nicht, aber es steht in der Zeitung."
+  },
+  {
+    "id": "A1_clean_0548",
+    "level": "A1",
+    "letter": "S",
+    "word": "stellen",
+    "type": "word",
+    "sentence_de": "Stell die Tasche rechts in die Ecke!"
+  },
+  {
+    "id": "A1_clean_0549",
+    "level": "A1",
+    "letter": "S",
+    "word": "Stock",
+    "article": "der",
+    "type": "noun",
+    "sentence_de": "Unsere Wohnung liegt im ersten Stock."
+  },
+  {
+    "id": "A1_clean_0550",
+    "level": "A1",
+    "letter": "S",
+    "word": "Straße",
+    "article": "die",
+    "type": "noun",
+    "plural": "-n",
+    "sentence_de": "In welcher Straße wohnen Sie?"
+  },
+  {
+    "id": "A1_clean_0551",
+    "level": "A1",
+    "letter": "S",
+    "word": "Straßenbahn",
+    "article": "die",
+    "type": "noun",
+    "sentence_de": "Wo fährt die Straßenbahn ab?"
+  },
+  {
+    "id": "A1_clean_0552",
+    "level": "A1",
+    "letter": "S",
+    "word": "Student",
+    "article": "der",
+    "type": "noun",
+    "plural": "-en",
+    "sentence_de": "Ich bin Studentin."
+  },
+  {
+    "id": "A1_clean_0553",
+    "level": "A1",
+    "letter": "S",
+    "word": "studieren",
+    "type": "word",
+    "sentence_de": "Ich studiere in Mainz."
+  },
+  {
+    "id": "A1_clean_0554",
+    "level": "A1",
+    "letter": "S",
+    "word": "Studium",
+    "article": "das",
+    "type": "noun",
+    "sentence_de": "Das Studium beginnt im Oktober."
+  },
+  {
+    "id": "A1_clean_0555",
+    "level": "A1",
+    "letter": "S",
+    "word": "Stunde",
+    "article": "die",
+    "type": "noun",
+    "plural": "-n",
+    "sentence_de": "Ich bin in einer Stunde zurück."
+  },
+  {
+    "id": "A1_clean_0556",
+    "level": "A1",
+    "letter": "S",
+    "word": "suchen",
+    "type": "word",
+    "sentence_de": "Suchst du etwas?"
+  },
+  {
+    "id": "A1_clean_0557",
+    "level": "A1",
+    "letter": "T",
+    "word": "tanzen",
+    "type": "word",
+    "sentence_de": "Tanzen Sie gern?"
+  },
+  {
+    "id": "A1_clean_0558",
+    "level": "A1",
+    "letter": "T",
+    "word": "Tasche",
+    "article": "die",
+    "type": "noun",
+    "plural": "-n",
+    "sentence_de": "Ich habe die Schlüssel in der Tasche."
+  },
+  {
+    "id": "A1_clean_0559",
+    "level": "A1",
+    "letter": "T",
+    "word": "Taxi",
+    "article": "das",
+    "type": "noun",
+    "plural": "-s",
+    "sentence_de": "Es gibt heute keinen Bus mehr. Er fährt mit dem Taxi."
+  },
+  {
+    "id": "A1_clean_0560",
+    "level": "A1",
+    "letter": "T",
+    "word": "Tee",
+    "article": "der",
+    "type": "noun",
+    "sentence_de": "Ich trinke morgens immer Tee."
+  },
+  {
+    "id": "A1_clean_0561",
+    "level": "A1",
+    "letter": "T",
+    "word": "Teil",
+    "article": "der",
+    "type": "noun",
+    "plural": "-e",
+    "sentence_de": "Lies bitte auch den zweiten Teil."
+  },
+  {
+    "id": "A1_clean_0562",
+    "level": "A1",
+    "letter": "T",
+    "word": "Telefon",
+    "article": "das",
+    "type": "noun",
+    "sentence_de": "Haben Sie Telefon?"
+  },
+  {
+    "id": "A1_clean_0563",
+    "level": "A1",
+    "letter": "T",
+    "word": "telefonieren",
+    "type": "word",
+    "sentence_de": "Darf ich mal telefonieren?"
+  },
+  {
+    "id": "A1_clean_0564",
+    "level": "A1",
+    "letter": "T",
+    "word": "Termin",
+    "article": "der",
+    "type": "noun",
+    "plural": "-e",
+    "sentence_de": "Am besten machen wir sofort einen Termin."
+  },
+  {
+    "id": "A1_clean_0565",
+    "level": "A1",
+    "letter": "T",
+    "word": "Test",
+    "article": "der",
+    "type": "noun",
+    "sentence_de": "Der Test war einfach."
+  },
+  {
+    "id": "A1_clean_0566",
+    "level": "A1",
+    "letter": "T",
+    "word": "teuer",
+    "type": "word",
+    "sentence_de": "Das ist mir zu teuer."
+  },
+  {
+    "id": "A1_clean_0567",
+    "level": "A1",
+    "letter": "T",
+    "word": "Text",
+    "article": "der",
+    "type": "noun",
+    "plural": "-e",
+    "sentence_de": "Lesen Sie bitte diesen Text."
+  },
+  {
+    "id": "A1_clean_0568",
+    "level": "A1",
+    "letter": "T",
+    "word": "Thema",
+    "article": "das",
+    "type": "noun",
+    "sentence_de": "Wir sprechen heute über das Thema „Essen und Trinken“."
+  },
+  {
+    "id": "A1_clean_0569",
+    "level": "A1",
+    "letter": "T",
+    "word": "Ticket",
+    "article": "das",
+    "type": "noun",
+    "plural": "-s",
+    "sentence_de": "Wie viel kostet das Ticket?"
+  },
+  {
+    "id": "A1_clean_0570",
+    "level": "A1",
+    "letter": "T",
+    "word": "Tisch",
+    "article": "der",
+    "type": "noun",
+    "plural": "-e",
+    "sentence_de": "Die Fotos liegen auf dem Tisch."
+  },
+  {
+    "id": "A1_clean_0571",
+    "level": "A1",
+    "letter": "T",
+    "word": "Tochter",
+    "article": "die",
+    "type": "noun",
+    "plural": "-ö",
+    "sentence_de": "Das ist meine Tochter Katharina."
+  },
+  {
+    "id": "A1_clean_0572",
+    "level": "A1",
+    "letter": "T",
+    "word": "Toilette",
+    "article": "die",
+    "type": "noun",
+    "plural": "-en",
+    "sentence_de": "Wo ist die Toilette, bitte?"
+  },
+  {
+    "id": "A1_clean_0573",
+    "level": "A1",
+    "letter": "T",
+    "word": "Tomate",
+    "article": "die",
+    "type": "noun",
+    "plural": "-n",
+    "sentence_de": "Die Tomate ist noch grün."
+  },
+  {
+    "id": "A1_clean_0574",
+    "level": "A1",
+    "letter": "T",
+    "word": "tot",
+    "type": "word",
+    "sentence_de": "Sein Vater ist schon lange tot."
+  },
+  {
+    "id": "A1_clean_0575",
+    "level": "A1",
+    "letter": "T",
+    "word": "treffen",
+    "type": "word",
+    "sentence_de": "Ich treffe in der Stadt einen Kollegen. Wir treffen uns immer freitags."
+  },
+  {
+    "id": "A1_clean_0576",
+    "level": "A1",
+    "letter": "T",
+    "word": "Treppe",
+    "article": "die",
+    "type": "noun",
+    "plural": "-n",
+    "sentence_de": "Die Toilette? Die Treppe hoch und dann links."
+  },
+  {
+    "id": "A1_clean_0577",
+    "level": "A1",
+    "letter": "T",
+    "word": "trinken",
+    "type": "word",
+    "sentence_de": "Möchtest du etwas trinken?"
+  },
+  {
+    "id": "A1_clean_0578",
+    "level": "A1",
+    "letter": "T",
+    "word": "tschüss",
+    "type": "word",
+    "sentence_de": "Junge Leute sagen meistens „tschüss!“ und nicht „auf Wiedersehen“."
+  },
+  {
+    "id": "A1_clean_0579",
+    "level": "A1",
+    "letter": "T",
+    "word": "tun",
+    "type": "word",
+    "sentence_de": "Ich habe noch etwas zu tun. Was tut Ihr Mann?"
+  },
+  {
+    "id": "A1_clean_0580",
+    "level": "A1",
+    "letter": "Ü",
+    "word": "über",
+    "type": "word",
+    "sentence_de": "Gehen Sie hier über die Straße. Er wohnt im zweiten Stock über Familie Meier. Sind Sie über 18?"
+  },
+  {
+    "id": "A1_clean_0581",
+    "level": "A1",
+    "letter": "Ü",
+    "word": "übernachten",
+    "type": "word",
+    "sentence_de": "Du kannst bei mir übernachten."
+  },
+  {
+    "id": "A1_clean_0582",
+    "level": "A1",
+    "letter": "Ü",
+    "word": "überweisen",
+    "type": "word",
+    "sentence_de": "Sie können das Geld auch überweisen."
+  },
+  {
+    "id": "A1_clean_0583",
+    "level": "A1",
+    "letter": "U",
+    "word": "Uhr",
+    "article": "die",
+    "type": "noun",
+    "sentence_de": "Es ist vier Uhr."
+  },
+  {
+    "id": "A1_clean_0584",
+    "level": "A1",
+    "letter": "U",
+    "word": "um",
+    "type": "word",
+    "sentence_de": "Er kommt um sieben Uhr. Da kommt er gerade um die Ecke."
+  },
+  {
+    "id": "A1_clean_0585",
+    "level": "A1",
+    "letter": "U",
+    "word": "unser-",
+    "type": "word",
+    "sentence_de": "Das ist unsere Lehrerin."
+  },
+  {
+    "id": "A1_clean_0586",
+    "level": "A1",
+    "letter": "U",
+    "word": "unten",
+    "type": "word",
+    "sentence_de": "Er wohnt ganz unten im Haus."
+  },
+  {
+    "id": "A1_clean_0587",
+    "level": "A1",
+    "letter": "U",
+    "word": "unter",
+    "type": "word",
+    "sentence_de": "Unter uns wohnt eine Familie mit drei Kindern."
+  },
+  {
+    "id": "A1_clean_0588",
+    "level": "A1",
+    "letter": "U",
+    "word": "Unterricht",
+    "article": "der",
+    "type": "noun",
+    "sentence_de": "Wir haben Unterricht von 8.00 bis 12.00 Uhr."
+  },
+  {
+    "id": "A1_clean_0589",
+    "level": "A1",
+    "letter": "U",
+    "word": "unterschreiben",
+    "type": "word",
+    "sentence_de": "Wo muss ich unterschreiben?"
+  },
+  {
+    "id": "A1_clean_0590",
+    "level": "A1",
+    "letter": "U",
+    "word": "Unterschrift",
+    "article": "die",
+    "type": "noun",
+    "sentence_de": "Hier fehlt noch Ihre Unterschrift."
+  },
+  {
+    "id": "A1_clean_0591",
+    "level": "A1",
+    "letter": "U",
+    "word": "Urlaub",
+    "article": "der",
+    "type": "noun",
+    "sentence_de": "Ich nehme im September Urlaub."
+  },
+  {
+    "id": "A1_clean_0592",
+    "level": "A1",
+    "letter": "U",
+    "word": "urteilen",
+    "type": "verb",
+    "sentence_de": "Europarats, Rat für kulturelle Zusammenarbeit, deut-"
+  },
+  {
+    "id": "A1_clean_0593",
+    "level": "A1",
+    "letter": "V",
+    "word": "Vater",
+    "article": "der",
+    "type": "noun",
+    "plural": "-ä",
+    "sentence_de": "Mein Vater ist Arbeiter."
+  },
+  {
+    "id": "A1_clean_0594",
+    "level": "A1",
+    "letter": "V",
+    "word": "verboten",
+    "type": "word",
+    "sentence_de": "Hier ist Rauchen verboten."
+  },
+  {
+    "id": "A1_clean_0595",
+    "level": "A1",
+    "letter": "V",
+    "word": "verdienen",
+    "type": "word",
+    "sentence_de": "Ich verdiene 1.500 Euro im Monat."
+  },
+  {
+    "id": "A1_clean_0596",
+    "level": "A1",
+    "letter": "V",
+    "word": "Verein",
+    "article": "der",
+    "type": "noun",
+    "sentence_de": "Es gibt einen neuen Sportverein in der Stadt."
+  },
+  {
+    "id": "A1_clean_0597",
+    "level": "A1",
+    "letter": "V",
+    "word": "verheiratet",
+    "type": "word",
+    "sentence_de": "Ich bin verheiratet und habe drei Kinder."
+  },
+  {
+    "id": "A1_clean_0598",
+    "level": "A1",
+    "letter": "V",
+    "word": "verkaufen",
+    "type": "word",
+    "sentence_de": "Er verkauft sein altes Auto."
+  },
+  {
+    "id": "A1_clean_0599",
+    "level": "A1",
+    "letter": "V",
+    "word": "Verkäufer",
+    "article": "der",
+    "type": "noun",
+    "plural": "–",
+    "sentence_de": "Meine Mutter ist Verkäuferin im Kaufhaus."
+  },
+  {
+    "id": "A1_clean_0600",
+    "level": "A1",
+    "letter": "V",
+    "word": "vermieten",
+    "type": "word",
+    "sentence_de": "Die Wohnung ist schon vermietet."
+  },
+  {
+    "id": "A1_clean_0601",
+    "level": "A1",
+    "letter": "V",
+    "word": "Vermieter",
+    "article": "der",
+    "type": "noun",
+    "sentence_de": "Unser Vermieter heißt Huber. Er wohnt auch hier."
+  },
+  {
+    "id": "A1_clean_0602",
+    "level": "A1",
+    "letter": "V",
+    "word": "verstehen",
+    "type": "word",
+    "sentence_de": "Können Sie mich verstehen?"
+  },
+  {
+    "id": "A1_clean_0603",
+    "level": "A1",
+    "letter": "V",
+    "word": "Verwandte",
+    "article": "der",
+    "type": "noun",
+    "plural": "-n",
+    "sentence_de": "Peter besucht seine Verwandten in Polen."
+  },
+  {
+    "id": "A1_clean_0604",
+    "level": "A1",
+    "letter": "V",
+    "word": "viel",
+    "type": "word",
+    "sentence_de": "Hier regnet es viel."
+  },
+  {
+    "id": "A1_clean_0605",
+    "level": "A1",
+    "letter": "V",
+    "word": "vielleicht",
+    "type": "word",
+    "sentence_de": "Ich komme vielleicht mit dem Bus."
+  },
+  {
+    "id": "A1_clean_0606",
+    "level": "A1",
+    "letter": "V",
+    "word": "von",
+    "type": "word",
+    "sentence_de": "Das Auto von Felix ist kaputt. Er kommt gerade von Köln/von zu Hause."
+  },
+  {
+    "id": "A1_clean_0607",
+    "level": "A1",
+    "letter": "V",
+    "word": "vor",
+    "type": "word",
+    "sentence_de": "Der Termin war vor einer Stunde. Das Auto steht vor der Tür."
+  },
+  {
+    "id": "A1_clean_0608",
+    "level": "A1",
+    "letter": "V",
+    "word": "Vorname",
+    "article": "der",
+    "type": "noun",
+    "plural": "-n",
+    "sentence_de": "Ich heiße Müller, mein Vorname ist Eva."
+  },
+  {
+    "id": "A1_clean_0609",
+    "level": "A1",
+    "letter": "V",
+    "word": "Vorsicht",
+    "article": "die",
+    "type": "noun",
+    "sentence_de": "Vorsicht! Da kommt ein Auto."
+  },
+  {
+    "id": "A1_clean_0610",
+    "level": "A1",
+    "letter": "V",
+    "word": "vorstellen",
+    "type": "word",
+    "sentence_de": "Wir wollen uns kennenlernen. Können Sie sich bitte vorstellen?"
+  },
+  {
+    "id": "A1_clean_0611",
+    "level": "A1",
+    "letter": "V",
+    "word": "Vorwahl",
+    "article": "die",
+    "type": "noun",
+    "sentence_de": "Wie ist die Vorwahl von München?"
+  },
+  {
+    "id": "A1_clean_0612",
+    "level": "A1",
+    "letter": "W",
+    "word": "wandern",
+    "type": "word",
+    "sentence_de": "Wir wandern um den Chiemsee."
+  },
+  {
+    "id": "A1_clean_0613",
+    "level": "A1",
+    "letter": "W",
+    "word": "wann",
+    "type": "word",
+    "sentence_de": "Wann bist du fertig? Wann kann ich Sie anrufen? Wann sind Sie geboren?"
+  },
+  {
+    "id": "A1_clean_0614",
+    "level": "A1",
+    "letter": "W",
+    "word": "warten",
+    "type": "word",
+    "sentence_de": "Können Sie ein paar Minuten warten? Auf wen warten Sie?"
+  },
+  {
+    "id": "A1_clean_0615",
+    "level": "A1",
+    "letter": "W",
+    "word": "warum",
+    "type": "word",
+    "sentence_de": "Warum kommt er nicht?"
+  },
+  {
+    "id": "A1_clean_0616",
+    "level": "A1",
+    "letter": "W",
+    "word": "was",
+    "type": "word",
+    "sentence_de": "Was ist das? Was möchten Sie?"
+  },
+  {
+    "id": "A1_clean_0617",
+    "level": "A1",
+    "letter": "W",
+    "word": "was für ein",
+    "type": "phrase",
+    "sentence_de": "Was für eine Farbe möchten Sie?"
+  },
+  {
+    "id": "A1_clean_0618",
+    "level": "A1",
+    "letter": "W",
+    "word": "waschen",
+    "type": "word",
+    "sentence_de": "Wo kann ich mir die Hände waschen? Ich muss morgen waschen."
+  },
+  {
+    "id": "A1_clean_0619",
+    "level": "A1",
+    "letter": "W",
+    "word": "Wasser",
+    "article": "das",
+    "type": "noun",
+    "sentence_de": "Ein Glas Wasser, bitte."
+  },
+  {
+    "id": "A1_clean_0620",
+    "level": "A1",
+    "letter": "W",
+    "word": "weg sein",
+    "type": "phrase",
+    "sentence_de": "Herr Meier ist schon weg."
+  },
+  {
+    "id": "A1_clean_0621",
+    "level": "A1",
+    "letter": "W",
+    "word": "weh tun",
+    "type": "phrase",
+    "sentence_de": "Ich muss zum Arzt. Mein Bein tut weh."
+  },
+  {
+    "id": "A1_clean_0622",
+    "level": "A1",
+    "letter": "W",
+    "word": "weiblich",
+    "type": "word",
+    "sentence_de": "Kreuzen Sie bitte an: „weiblich“ oder „männlich“."
+  },
+  {
+    "id": "A1_clean_0623",
+    "level": "A1",
+    "letter": "W",
+    "word": "weiter",
+    "type": "word",
+    "sentence_de": "Der Bus fährt nicht weiter."
+  },
+  {
+    "id": "A1_clean_0624",
+    "level": "A1",
+    "letter": "W",
+    "word": "welch-",
+    "type": "word",
+    "sentence_de": "Welches Buch möchtest du?"
+  },
+  {
+    "id": "A1_clean_0625",
+    "level": "A1",
+    "letter": "W",
+    "word": "Welt",
+    "article": "die",
+    "type": "noun",
+    "sentence_de": "Es gibt viele Probleme auf der Welt."
+  },
+  {
+    "id": "A1_clean_0626",
+    "level": "A1",
+    "letter": "W",
+    "word": "wenig",
+    "type": "word",
+    "sentence_de": "Ich habe leider nur wenig verstanden. Er verdient wenig."
+  },
+  {
+    "id": "A1_clean_0627",
+    "level": "A1",
+    "letter": "W",
+    "word": "wer",
+    "type": "word",
+    "sentence_de": "Wer ist das?"
+  },
+  {
+    "id": "A1_clean_0628",
+    "level": "A1",
+    "letter": "W",
+    "word": "werden",
+    "type": "word",
+    "sentence_de": "Mein Sohn will Arzt werden."
+  },
+  {
+    "id": "A1_clean_0629",
+    "level": "A1",
+    "letter": "W",
+    "word": "Wetter",
+    "article": "das",
+    "type": "noun",
+    "sentence_de": "Wir hatten schlechtes Wetter."
+  },
+  {
+    "id": "A1_clean_0630",
+    "level": "A1",
+    "letter": "W",
+    "word": "wichtig",
+    "type": "word",
+    "sentence_de": "Dieses Formular ist sehr wichtig."
+  },
+  {
+    "id": "A1_clean_0631",
+    "level": "A1",
+    "letter": "W",
+    "word": "wie",
+    "type": "word",
+    "sentence_de": "Wie heißt du? Er schreibt wie ein Kind. Meine Frau ist so groß wie ich. Wie soll ich das machen? Wie groß ist die Wohnung? Wie bitte? Wie lange bist du schon hier?"
+  },
+  {
+    "id": "A1_clean_0632",
+    "level": "A1",
+    "letter": "W",
+    "word": "wie viel",
+    "type": "phrase",
+    "sentence_de": "Wie viel Milch nehmen Sie?"
+  },
+  {
+    "id": "A1_clean_0633",
+    "level": "A1",
+    "letter": "W",
+    "word": "wiederholen",
+    "type": "word",
+    "sentence_de": "Können Sie das bitte wiederholen?"
+  },
+  {
+    "id": "A1_clean_0634",
+    "level": "A1",
+    "letter": "W",
+    "word": "Wiederhören",
+    "article": "das",
+    "type": "noun",
+    "sentence_de": "Wir müssen jetzt Schluss machen. Also auf Wiederhören!"
+  },
+  {
+    "id": "A1_clean_0635",
+    "level": "A1",
+    "letter": "W",
+    "word": "Wiedersehen",
+    "article": "das",
+    "type": "noun",
+    "sentence_de": "Auf Wiedersehen!"
+  },
+  {
+    "id": "A1_clean_0636",
+    "level": "A1",
+    "letter": "W",
+    "word": "willkommen",
+    "type": "word",
+    "sentence_de": "Herzlich willkommen!"
+  },
+  {
+    "id": "A1_clean_0637",
+    "level": "A1",
+    "letter": "W",
+    "word": "Wind",
+    "article": "der",
+    "type": "noun",
+    "sentence_de": "Der Wind kommt aus Osten."
+  },
+  {
+    "id": "A1_clean_0638",
+    "level": "A1",
+    "letter": "W",
+    "word": "wir",
+    "type": "word",
+    "sentence_de": "Wir lernen Deutsch."
+  },
+  {
+    "id": "A1_clean_0639",
+    "level": "A1",
+    "letter": "W",
+    "word": "wissen",
+    "type": "word",
+    "sentence_de": "Weißt du, wie er heißt?"
+  },
+  {
+    "id": "A1_clean_0640",
+    "level": "A1",
+    "letter": "W",
+    "word": "wo",
+    "type": "word",
+    "sentence_de": "Wo waren Sie im Urlaub? Wo ist die Post? Wo sind Sie geboren?"
+  },
+  {
+    "id": "A1_clean_0641",
+    "level": "A1",
+    "letter": "W",
+    "word": "woher",
+    "type": "word",
+    "sentence_de": "Woher kommen Sie?"
+  },
+  {
+    "id": "A1_clean_0642",
+    "level": "A1",
+    "letter": "W",
+    "word": "wohin",
+    "type": "word",
+    "sentence_de": "Wohin fährt dieser Bus? Wohin wollen Sie am Wochenende?"
+  },
+  {
+    "id": "A1_clean_0643",
+    "level": "A1",
+    "letter": "W",
+    "word": "wohnen",
+    "type": "word",
+    "sentence_de": "Ich wohne in München."
+  },
+  {
+    "id": "A1_clean_0644",
+    "level": "A1",
+    "letter": "W",
+    "word": "Wohnung",
+    "article": "die",
+    "type": "noun",
+    "plural": "-en",
+    "sentence_de": "Seit wann haben Sie diese Wohnung?"
+  },
+  {
+    "id": "A1_clean_0645",
+    "level": "A1",
+    "letter": "W",
+    "word": "wollen",
+    "type": "word",
+    "sentence_de": "Wollen Sie einen Kaffee trinken?"
+  },
+  {
+    "id": "A1_clean_0646",
+    "level": "A1",
+    "letter": "W",
+    "word": "Wort",
+    "article": "das",
+    "type": "noun",
+    "plural": "-ö, er/-e",
+    "sentence_de": "Ich kenne das Wort nicht."
+  },
+  {
+    "id": "A1_clean_0647",
+    "level": "A1",
+    "letter": "W",
+    "word": "wortliste ab",
+    "type": "phrase",
+    "sentence_de": "Ab morgen muss ich arbeiten."
+  },
+  {
+    "id": "A1_clean_0648",
+    "level": "A1",
+    "letter": "W",
+    "word": "wunderbar",
+    "type": "word",
+    "sentence_de": "Das Essen schmeckt wunderbar."
+  },
+  {
+    "id": "A1_clean_0649",
+    "level": "A1",
+    "letter": "Z",
+    "word": "zahlen",
+    "type": "word",
+    "sentence_de": "Zahlen, bitte!"
+  },
+  {
+    "id": "A1_clean_0650",
+    "level": "A1",
+    "letter": "Z",
+    "word": "Zeit",
+    "article": "die",
+    "type": "noun",
+    "sentence_de": "Ich habe heute keine Zeit."
+  },
+  {
+    "id": "A1_clean_0651",
+    "level": "A1",
+    "letter": "Z",
+    "word": "Zeitung",
+    "article": "die",
+    "type": "noun",
+    "plural": "-en",
+    "sentence_de": "Ich lese gern Zeitung."
+  },
+  {
+    "id": "A1_clean_0652",
+    "level": "A1",
+    "letter": "Z",
+    "word": "Zigarette",
+    "article": "die",
+    "type": "noun",
+    "plural": "-n",
+    "sentence_de": "Wie teuer sind die Zigaretten?"
+  },
+  {
+    "id": "A1_clean_0653",
+    "level": "A1",
+    "letter": "Z",
+    "word": "Zimmer",
+    "article": "das",
+    "type": "noun",
+    "plural": "–",
+    "sentence_de": "Das Zimmer ist groß. Öffne im Schlafzimmer das Fenster, bitte! Die Wohnung hat drei Zimmer. Ich habe ein Zimmer bestellt."
+  },
+  {
+    "id": "A1_clean_0654",
+    "level": "A1",
+    "letter": "Z",
+    "word": "Zoll",
+    "article": "der",
+    "type": "noun",
+    "sentence_de": "Wir müssen noch durch den Zoll."
+  },
+  {
+    "id": "A1_clean_0655",
+    "level": "A1",
+    "letter": "Z",
+    "word": "zu",
+    "type": "word",
+    "sentence_de": "Der Bus fährt zum Bahnhof."
+  },
+  {
+    "id": "A1_clean_0656",
+    "level": "A1",
+    "letter": "Z",
+    "word": "zu sein",
+    "type": "phrase",
+    "sentence_de": "Die Tür ist zu."
+  },
+  {
+    "id": "A1_clean_0657",
+    "level": "A1",
+    "letter": "Z",
+    "word": "zufrieden",
+    "type": "word",
+    "sentence_de": "Ich bin mit der Wohnung zufrieden."
+  },
+  {
+    "id": "A1_clean_0658",
+    "level": "A1",
+    "letter": "Z",
+    "word": "Zug",
+    "article": "der",
+    "type": "noun",
+    "plural": "-ü, e",
+    "sentence_de": "Ich fahre gern mit dem Zug."
+  },
+  {
+    "id": "A1_clean_0659",
+    "level": "A1",
+    "letter": "Z",
+    "word": "zum Beispiel/z. B.",
+    "type": "phrase",
+    "sentence_de": "Viele meiner Verwandten, z. B. meine beiden Brüder, arbeiten auch hier."
+  },
+  {
+    "id": "A1_clean_0660",
+    "level": "A1",
+    "letter": "Z",
+    "word": "zurück",
+    "type": "word",
+    "sentence_de": "Einmal Frankfurt und zurück. Wann kommst du zurück?"
+  },
+  {
+    "id": "A1_clean_0661",
+    "level": "A1",
+    "letter": "Z",
+    "word": "zurzeit",
+    "type": "word",
+    "sentence_de": "Zurzeit habe ich sehr viel zu tun."
+  },
+  {
+    "id": "A1_clean_0662",
+    "level": "A1",
+    "letter": "Z",
+    "word": "zusammen",
+    "type": "word",
+    "sentence_de": "Sollen wir zusammen essen gehen? Das macht zusammen 2 Euro 80."
+  },
+  {
+    "id": "A1_clean_0663",
+    "level": "A1",
+    "letter": "Z",
+    "word": "zwischen",
+    "type": "word",
+    "sentence_de": "Heidelberg liegt zwischen Frankfurt und Stuttgart. Zwischen 8 und 10 Uhr bin ich zu Hause."
+  }
+]
