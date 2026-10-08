@@ -3,7 +3,15 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#EEEEF0" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#2C2C2F" media="(prefers-color-scheme: dark)" />
     <title>German Vocabulary Trainer</title>
+    <script>
+      try {
+        var t = localStorage.getItem('vocab-theme');
+        if (t === 'light' || t === 'dark') document.documentElement.setAttribute('data-theme', t);
+      } catch (e) {}
+    </script>
     <meta name="description"
         content="German Vocabulary Practice Platform to move from A1 to A2 to B1.">
     <!-- Google tag (gtag.js) -->
@@ -15,7 +23,7 @@
       gtag('config', 'G-37Q39YBWQP');
     </script>
   </head>
-  <body class="bg-zinc-900">
+  <body>
     <div id="root"></div>
     <script type="module" src="/src/main.tsx"></script>
   </body>

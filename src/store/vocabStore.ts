@@ -97,3 +97,8 @@ export const useVocabStore = create<Store>((set) => ({
 }))
 
 export const getLevelCount = (level: VocabLevel) => allWords[level].length
+
+export const getLetterCount = (level: VocabLevel, letter: string) =>
+  letter === 'ALL'
+    ? allWords[level].length
+    : allWords[level].filter((entry) => entry.letter === letter).length
